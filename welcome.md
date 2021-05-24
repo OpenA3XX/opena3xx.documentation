@@ -15,7 +15,7 @@ Welcome to the [OpenA3xx](https://github.com/OpenA3XX) project, a truly open sou
 
 ## About the project
 
-The project was co-founded by David Bonnici and Mark Buhagiar.  
+The project was co-founded by a group of flight simulation enthusiasts.  
 It came into existance after the desire to be build a home cockpit for the A3xx family, but no single point of reference on how to tackle  
 that kind of project from the beginning.   
 There were numerous sources of information out there, but nothing complete and all in one place.  
