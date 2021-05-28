@@ -113,6 +113,6 @@ Please contact the team if you need any help with this.
 | MCDU Button Labels | DRIV3R78 | In Progress | sketching LSK Keys |
 | Korry Button Label Template | DRIV3R78 | In Progress | reworking the fonts |
 | Overhead - 25VU ANTI-ICE/CAB PRESS | Kavster#4400 | Complete | Final 3D renders |
-| Overhead 30VU AIR COND PANEL | Kavster#4400 | In Design | 2D drawing of panel |
+| Overhead - 30VU AIR COND PANEL | Kavster#4400 | In Design | 2D drawing of panel |
 
 ---
