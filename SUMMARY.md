@@ -37,4 +37,6 @@
   * [Centre Area](airbus-a320-panels/overhead-area/centre-area.md)
 * [Pedestal](airbus-a320-panels/main/README.md)
   * [MCDU](airbus-a320-panels/main/main.md)
+* [Main Instrument Panel \(MIP\)](airbus-a320-panels/main-1/README.md)
+  * [FCU](airbus-a320-panels/main-1/main.md)
 
