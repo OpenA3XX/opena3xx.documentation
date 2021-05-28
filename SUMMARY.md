@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Welcome...](README.md)
+
+## The OpenA3XX Project
+
+---
+
 * [Our Team](team.md)
 * [Contributing](contributing.md)
 
