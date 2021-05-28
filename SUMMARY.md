@@ -31,12 +31,12 @@
 
 ## Airbus A320 Panels
 
-* [Overhead Area](airbus-a320-panels/overhead-area/README.md)
-  * [Right Area](airbus-a320-panels/overhead-area/right-area.md)
-  * [Left Area](airbus-a320-panels/overhead-area/left-area.md)
-  * [Centre Area](airbus-a320-panels/overhead-area/centre-area.md)
-* [Pedestal](airbus-a320-panels/main/README.md)
-  * [MCDU](airbus-a320-panels/main/main.md)
-* [Main Instrument Panel \(MIP\)](airbus-a320-panels/main-1/README.md)
-  * [FCU](airbus-a320-panels/main-1/main.md)
+* [Overhead Area](airbus-a320-panels/overhead/README.md)
+  * [Right Area](airbus-a320-panels/overhead/ovh-right.md)
+  * [Left Area](airbus-a320-panels/overhead/ovh-left.md)
+  * [Centre Area](airbus-a320-panels/overhead/ovh-center.md)
+* [Pedestal](airbus-a320-panels/pedestal/README.md)
+  * [MCDU](airbus-a320-panels/pedestal/mcdu.md)
+* [Main Instrument Panel \(MIP\)](airbus-a320-panels/mip/README.md)
+  * [FCU](airbus-a320-panels/mip/fcu.md)
 
