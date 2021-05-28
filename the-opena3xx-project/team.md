@@ -24,7 +24,7 @@ Responsibilities: 3D Modelling & Prototyping
 
 ![Jak Kav - OpenA3XX Senior Developer](../.gitbook/assets/jakav221.jpg)
 
-Discord Handler: @Kavster\#4400
+Discord Handle: @Kavster\#4400
 
 Responsibilities: 3D Modelling, Protoyping & Software Development
 
