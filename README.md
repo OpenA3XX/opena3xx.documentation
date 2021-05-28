@@ -9,7 +9,7 @@
 
 # The OpenA3XX Project
 
-Welcome to the [OpenA3XX](https://github.com/OpenA3XX) project, a truly open source project for the Airbus A3XX family..
+Welcome to the [OpenA3XX](https://github.com/OpenA3XX) project, a truly open source project for the Airbus A3XX family.
 
 ---
 
