@@ -2,6 +2,7 @@
 
 * [Welcome...](README.md)
 * [Our Team](team.md)
+* [Contributing](contributing.md)
 
 ## Overview
 
