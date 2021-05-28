@@ -15,7 +15,9 @@
 
 ## Hardware Interface
 
-* [Digital Hardware Controller](hardware-interface/untitled.md)
+* [Digital Hardware Controller](hardware-interface/untitled/README.md)
+  * [Overview](hardware-interface/untitled/overview.md)
+  * [Bill of Material \(BOM\)](hardware-interface/untitled/bill-of-material-bom.md)
 * [MCDU Controller](hardware-interface/mcdu-controller.md)
 * [Analog Hardware Controller](hardware-interface/analog-hardware-controller.md)
 
