@@ -13,15 +13,11 @@
 * [Software Dependencies](development-setup/software-dependencies/README.md)
   * [Admin Configurator](development-setup/software-dependencies/admin-configurator.md)
 
-## Setup
-
 ## Hardware Interface
 
----
-
-* [Digital Hardware Controller](untitled.md)
-* [MCDU Controller](mcdu-controller.md)
-* [Analog Hardware Controller](analog-hardware-controller.md)
+* [Digital Hardware Controller](hardware-interface/untitled.md)
+* [MCDU Controller](hardware-interface/mcdu-controller.md)
+* [Analog Hardware Controller](hardware-interface/analog-hardware-controller.md)
 
 ## 3D Printing
 

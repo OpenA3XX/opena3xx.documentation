@@ -20,13 +20,11 @@ Responsibilities: Software Development & General Consultancy
 
 Discord Handle: @DRIV3R\#6159
 
-Responsibilities: 3D Modelling & Prototyping 
+Responsibilities: 3D Modelling & Prototyping
 
 ![Jak Kav - OpenA3XX Senior Developer](.gitbook/assets/jakav221.jpg)
 
 Discord Handler: @Kavster\#4400
 
 Responsibilities: 3D Modelling, Protoyping & Software Development
-
-
 

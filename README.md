@@ -4,7 +4,7 @@ description: ...to the OpenA3XX open source project.
 
 # Welcome...
 
- [![](https://github.com/OpenA3XX/opena3xx.site/blob/main/assets/images/OPENA3XX%20logo%20RGB.png?raw=true)](https://opena3xx.dev)
+[![](https://github.com/OpenA3XX/opena3xx.site/blob/main/assets/images/OPENA3XX%20logo%20RGB.png?raw=true)](https://opena3xx.dev)
 
 ## The OpenA3XX Project
 

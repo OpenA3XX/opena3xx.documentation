@@ -23,5 +23,3 @@ All software development dependencies should be completed by now.
   ng serve
   ```
 
-
-
