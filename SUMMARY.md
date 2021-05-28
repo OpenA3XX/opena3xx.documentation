@@ -4,8 +4,8 @@
 
 ## The OpenA3XX Project
 
-* [Contributing](the-opena3xx-project/contributing.md)
 * [Our Team](the-opena3xx-project/team.md)
+* [Contributing](the-opena3xx-project/contributing.md)
 
 ## Overview
 
