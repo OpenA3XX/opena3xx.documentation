@@ -83,7 +83,7 @@ Our 3D design work is going through the finishing touches, and prototypes will b
 The PCB hardware is very nearly finished, and some boards have already been produced and assembled ready for testing.   
 The community documentation and presentation is what you're reading now, and is constantly being updated.   
 
-All of our current work is free to be seen on the [OpenA3xx](https://github.com/OpenA3XX) project GitHub repos.
+All of our current work is free to be seen on the [OpenA3XX](https://github.com/OpenA3XX) project GitHub repos.
 
 ---
 
