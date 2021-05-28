@@ -35,4 +35,6 @@
   * [Right Area](airbus-a320-panels/overhead-area/right-area.md)
   * [Left Area](airbus-a320-panels/overhead-area/left-area.md)
   * [Centre Area](airbus-a320-panels/overhead-area/centre-area.md)
+* [Pedestal](airbus-a320-panels/main/README.md)
+  * [MCDU](airbus-a320-panels/main/main.md)
 
