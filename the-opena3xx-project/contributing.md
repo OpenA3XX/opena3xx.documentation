@@ -67,15 +67,23 @@ Please read this section <strong><em>carefully</em></strong>, to make sure your 
 <li><strong>MCDU</strong></li>
     <ol>
     <li><strong>Font</strong></li>  
-    We are currently working the 'MS 33558' which can easily be found on <a href="https://www.google.co.uk/search?q=MS+33558">Google</a>.
+    We are currently working with the 'MS 33558' which can easily be found on <a href="https://www.google.co.uk/search?q=MS+33558">Google</a>.
     This is still an open discussion, as there is a problem working with the font inside Fusion 360 etc.
-    Please monitor this section for regular updates.  
+    The font needs to be converted to a ttf in order for it to be probably extruded.
     <li><strong>Dimensions</strong></li>
-    TBC
+    Discussion in relation to supporting different screen sizes are currently taking place.
+    We are hoping to be able to support 2 different sizes which are the most common on the market.
     </ol>
 <li><strong>FCU</strong></li>
     <ol>
     <li>TBC</li>
+    </ol>
+<li><Strong>OverHead (FWD) Panels</strong></li>
+    <ol>
+        <li>VU25 - Complete</li>
+        <li>VU30 - Currently in design</li>
+            We are currently investigating dimensions for the overhead panels based on research.
+            Updates will follow here soon.
     </ol>
 </ul>
 
