@@ -6,7 +6,6 @@
 <li>How to contribute</li>
 <li>Guidelines</li>
 <li>Current Projects</li>
-<li>What next?</li>
 </ol>
 
 ---
