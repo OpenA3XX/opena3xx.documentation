@@ -1,4 +1,4 @@
-The OpenA3xx Project Documentation
+The OpenA3XX Project Documentation
 ==================================
 
 This is the home of the documentation for the [OpenA3XX project](https://opena3xx.dev).    
