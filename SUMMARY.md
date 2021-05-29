@@ -21,7 +21,7 @@
 
 * [Digital Hardware Controller](hardware-interface/hardware-controller/README.md)
   * [Overview](hardware-interface/hardware-controller/overview.md)
-  * [Bill of Material \(BOM\)](hardware-interface/hardware-controller/bill-of-material.md)
+  * [BOM \(Bill of Material\)](hardware-interface/hardware-controller/bill-of-material.md)
 * [MCDU Controller](hardware-interface/mcdu-controller.md)
 * [Analog Hardware Controller](hardware-interface/analog-hardware-controller.md)
 
