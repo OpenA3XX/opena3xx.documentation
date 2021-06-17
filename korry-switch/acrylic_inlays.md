@@ -6,6 +6,20 @@ description: How to make the acrylic inlays for the top of the Korry switch.
 
 ## How To Order To Be Made
 
+If you do not have access to your own CNC machine, you can always send off for the parts to be made.  
+There are numerous companies out there that will machine parts for you. Cost varies depending on the material and size etc, but it is a possible solution.
+
+{% hint style="warning" %}
+You need to remember that one side needs to be painted black **BEFORE** the engraving. Please check with the company that this can be done before placing an order.
+{% endhint %}
+
+You need to ask for it to made with 2mm clear acrylic. Remember to ask for one side to be painted black before it's cut.  
+Simply send the company the required DXF file and they should be able to do the rest.
+
+### Order From OpenA3XX
+
+We are considering the possibility of holding stock of some items such as these acrylic inlays that might be slightly more difficult for people to get their hands on. This is not something we currently offer, but if we recieve enough interest on this then we will put the service in place. If this is something you would like, please let us know. The best place to do this is on the 'Suggestions' channel in the [Discord.](https://discord.gg/55aufspsDs)
+
 ## How To Make Yourself
 
 Making the inlays is a fairly straight forward process.  
