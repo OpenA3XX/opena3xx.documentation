@@ -15,8 +15,8 @@ In order to build one of our Korry switches, you will need:
 1x Acrylic inlay \(see below for more detail\)  
 1x PCB \(see PCB page for more details\)  
 2x Square LED \(2mm x 3mm x 4mm\) in appropriate colours  
-1x Push switch \(5.8mm x 5.8mm\)   
-     \(in either self-locking or no-locking depending on type required\)  
+1x Push switch \(5.8mm x 5.8mm\)  
+\(in either self-locking or no-locking depending on type required\)  
 2x 270 ohm SMD resistors \(1206 footprint\)  
 1x Pin header \(1 row of 5\) 2.54mm
 
@@ -28,19 +28,21 @@ Solder
 Solder pump  
 Helping hand  
 Voltmeter \(Electrical/continuity circuit tester or some kind\)  
-Calipers 
+Calipers
 
 ## 3D Printed Parts
 
-The 3D printed parts consist of an inner and outer shell. 
+The 3D printed parts consist of an inner and outer shell.
 
-<img src="https://raw.githubusercontent.com/OpenA3XX/opena3xx.3D-PRIVATE/main/3%20-%20James%20(Kavster)/Korry/Renders/V2/4.png?token=ARD7VHPZQI4J7EDKOTYDQWLAZMMPO" width="250" />
+![](../.gitbook/assets/4.png)
 
-Next line here
+The smaller part sits inside the larger part, and they are held together by friction. The top of the switch is joined into the hole of the inner part, and it moves with the switch. This is the same for both the locking and non-locking switches.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% hint style="warning" %}
+When you print these, please double check their sizes with calipers!
 {% endhint %}
 
-
+When you're ready to print them, please goto the GitHub and download these 2 files:  
+[**KS-3D-IN1.stl**](https://github.com/OpenA3XX/opena3xx.3DModelling/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-IN1.stl)  
+****[**KS-3D-OUT1.stl**](https://github.com/OpenA3XX/opena3xx.3DModelling/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-OUT1.stl)\*\*\*\*
 
