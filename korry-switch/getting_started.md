@@ -6,6 +6,11 @@ description: Everything you need to know to build your own Korry switch!
 
 ![3D Visualization](../.gitbook/assets/5.png)
 
+We have designed this Korry switch to be a very effective and efficient unit. It is a great part of the project to start with for those who may be unsure of their soldering abilities, or want to test the waters with something a bit smaller first.  
+For those who are experienced, this unit will be a hassle free and simple addition to your existing projects.  
+We are aware that the fact this unit uses a PCB may be a bit offputting to some people, but we assure you it is very accessible, cheap and easy to use. We beleive this design makes it much easier to use, and easy to connect up to other hardware.  
+Please read through these pages carefully, as everything is explained in detail. If you have questions, please don't hesitate to contact us.
+
 ## What You Need:
 
 ### **Parts & Components**
