@@ -8,7 +8,7 @@ description: How to get the PCB for the Korry Switch.
 
 I want to start with a short explanation of what the PCB actually does, and why we have decided to choose this method of design.
 
-![Front of the PCB](../.gitbook/assets/korry_pcb2%20%282%29.png)
+![Front of the PCB](../.gitbook/assets/korry_pcb2%20%282%29%20%281%29.png)
 
 The unit itself contains a switch \(locking or non-locking\), 2 LED's and 2 resistors.  
 So, why does such a simple circuit need a PCB? Can't we just put the components in the 3D printed unit, solder a resistor to the LED leg and then solder some wires?
@@ -144,13 +144,13 @@ The best way will be in the [Discord](https://discord.gg/55aufspsDs).
 
 ## Photos & Renders
 
-![](../.gitbook/assets/5.png)
+![](../.gitbook/assets/5%20%282%29.png)
 
 ![](../.gitbook/assets/6%20%281%29.png)
 
 ![](../.gitbook/assets/3.png)
 
-![](../.gitbook/assets/4.png)
+![](../.gitbook/assets/4%20%282%29.png)
 
 ![](../.gitbook/assets/1%20%281%29.png)
 

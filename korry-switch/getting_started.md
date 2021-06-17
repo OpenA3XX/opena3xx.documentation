@@ -4,7 +4,7 @@ description: Everything you need to know to build your own OpenA3XX Korry switch
 
 # Getting Started
 
-![3D Visualization](../.gitbook/assets/5%20%281%29.png)
+![3D Visualization](../.gitbook/assets/5%20%282%29%20%281%29.png)
 
 We have designed this Korry switch to be a very effective and efficient unit. It is a great part of the project to start with for those who may be unsure of their soldering abilities or want to test the waters with something a bit smaller first.  
 For those who are experienced, this unit will be a hassle free and simple addition to your existing projects.  
@@ -39,7 +39,7 @@ Calipers
 
 The 3D printed parts consist of an inner and outer shell.
 
-![](../.gitbook/assets/4%20%282%29.png)
+![](../.gitbook/assets/4%20%282%29%20%281%29.png)
 
 The smaller part sits inside the larger part, and they are held together by friction. The top of the switch is joined into the hole of the inner part, and it moves with the switch. This is the same for both the locking and non-locking switches.
 
@@ -80,5 +80,5 @@ In short, you only need to download the relevant files and send them off to a PC
 The cost of having these boards made is actually a lot cheaper than you think!  
 You can find out more about this on the [PCB page](pcb.md).
 
-![3D render of PCB.](../.gitbook/assets/korry_pcb2%20%281%29.png)
+![3D render of PCB.](../.gitbook/assets/korry_pcb2%20%282%29.png)
 

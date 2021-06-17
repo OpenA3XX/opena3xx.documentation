@@ -38,7 +38,7 @@ We recommend making them in this order as it is the most straight foward and mea
 
 ## Step-by-step with Estlcam
 
-Our CNC software of choice is Estlcam. You can find out more about it in the [CNC Introduction](../cnc-milling/intro.md) page.  
+Our CNC software of choice is Estlcam. You can find out more about it in the [CNC Introduction]() page.  
 There are many other solutions out there, and we are in no way affiliated with Estlcam.  
 It is free to use with some waiting limitations, but you can support the developer by paying a small fee and remove the waiting limitations.  
 With that said, here is a step-by-step guide to making the acrylic inlays using Estlcam.
