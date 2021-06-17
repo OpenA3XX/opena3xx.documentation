@@ -4,9 +4,9 @@ description: Everything you need to know to build your own Korry switch!
 
 # Getting Started
 
-## What You Need
+![3D Visualization](../.gitbook/assets/5.png)
 
-In order to build one of our Korry switches, you will need:
+## What You Need:
 
 ### **Parts & Components**
 
@@ -46,6 +46,10 @@ When you're ready to print them, please goto the GitHub and download these 2 fil
 [**KS-3D-IN1.stl**](https://github.com/OpenA3XX/opena3xx.3DModelling/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-IN1.stl)  
 ****[**KS-3D-OUT1.stl**](https://github.com/OpenA3XX/opena3xx.3DModelling/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-OUT1.stl)\*\*\*\*
 
+{% hint style="danger" %}
+Print them in the orientation they are currently in. You will only need to add a support to the bridge on the inner part. No support is needed anywhere else as the lip on the outer part prints perfect without support.
+{% endhint %}
+
 ## **Acrylic Inlays**
 
 The acrylic inlays are the surface of the actual button. The bit that your finger presses.  
@@ -54,8 +58,6 @@ The acrylic is painted black on one side, and then the text is engraved through 
 It must be mirrored because the painted/engraved side will be the back, leaving the front to be smooth and clear for surface to push.
 
 ![](../.gitbook/assets/img_5352.jpg)
-
-![](../.gitbook/assets/img_5351.jpg)
 
 You can find out how to make these \(or order them to be made\) on the [Acrylic Inlay page](acrylic_inlays.md).
 
