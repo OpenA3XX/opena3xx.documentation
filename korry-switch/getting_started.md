@@ -45,6 +45,9 @@ The smaller part sits inside the larger part, and they are held together by fric
 
 {% hint style="warning" %}
 When you print these, please double check their sizes with calipers!
+
+The outer shell should be 20mm x 20mm \(**not** including the lip\).  
+The inner shell should be 16.8mm x 16.8mm.
 {% endhint %}
 
 When you're ready to print them, please goto the GitHub and download these 2 files:  
