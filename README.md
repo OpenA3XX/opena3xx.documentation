@@ -39,6 +39,7 @@ Secondly, you decide on how you want to manufacture the actual panel. Will it be
 You assemble the parts together with the panel to complete the hardware interface.
 
 ![](.gitbook/assets/render1.png)
+<img src="https://github.com/OpenA3XX/opena3xx.3D-PRIVATE/raw/main/3%20-%20James%20(Kavster)/Korry/Renders/GitBook%20Images/Render3.PNG?raw=true" alt="Logo" width="300"/>
 
 #### Step 3:
 
