@@ -18,6 +18,15 @@ And all of this will be open source, with clear documentation and easy to unders
 This will be an exciting DIY project for you to tackle, powered by open source hardware and software.  
 We beleive this is a high quality project, designed with low-cost in mind.
 
+### Permission, Licensing & Rules
+
+Everything within the OpenA3XX project is open source hardware & software.  
+It is for **personal use only**, and is not permitted for commercial use without speaking to the OpenA3XX team directly.  
+**No-one is allowed to sell any part of the project, nor are they allowed to manufacture our designs and products for selling.**  
+There may be certain parts of the project that OpenA3XX holds in stock for users to purchase if they are not able to get them manufactured themself. But no product will be behind a paywall. All parts will always be free to the user.   
+In summary, it's all completly free for you to use for yourself in personal home cockpits.  
+If you are unsure on whether you are allowed to do something with our designs and products, please contact us to discuss the matter. Thank you!
+
 ### How it works
 
 So, that's all well and good we hear you say, but how does it all work?
@@ -35,10 +44,9 @@ You will find a 'bill' of components listing everything that you will need.
 
 #### Step 2:
 
-Secondly, you decide on how you want to manufacture the actual panel. Will it be 3D printed or CNC milled? Our team have designed the 3D models, and have designed them with the differences in 3D printing and CNC milling in mind. These designs are again, all open source and ready to download.  
-You assemble the parts together with the panel to complete the hardware interface.
+Secondly, you decide on how you want to manufacture the actual panel. Will it be 3D printed or CNC milled? Our team have designed the 3D models individually with care, and have designed them with the differences in 3D printing and CNC milling in mind. These designs are all open source and ready to download. You then assemble the parts together with the panel to complete the panel.
 
-![MCDU_1](.gitbook/assets/render1.png) ![MCDU_2](.gitbook/assets/render3.png)
+![MCDU\_1](.gitbook/assets/render1.png) ![MCDU\_2](.gitbook/assets/render3.png)
 
 #### Step 3:
 

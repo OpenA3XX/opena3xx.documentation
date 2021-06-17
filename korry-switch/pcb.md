@@ -144,7 +144,7 @@ The best way will be in the [Discord](https://discord.gg/55aufspsDs).
 
 ## Photos & Renders
 
-![](../.gitbook/assets/5%20%282%29%20%282%29%20%282%29.png)
+![](../.gitbook/assets/5%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 ![](../.gitbook/assets/6%20%281%29.png)
 
