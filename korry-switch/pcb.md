@@ -142,3 +142,15 @@ The best way will be in the [Discord](https://discord.gg/55aufspsDs).
 
 ![Korry PCB Wiring Diagram](../.gitbook/assets/capture.jpg)
 
+## Photos & Renders
+
+![](../.gitbook/assets/5.png)
+
+![](../.gitbook/assets/6%20%281%29.png)
+
+![](../.gitbook/assets/3.png)
+
+![](../.gitbook/assets/4.png)
+
+![](../.gitbook/assets/1%20%281%29.png)
+
