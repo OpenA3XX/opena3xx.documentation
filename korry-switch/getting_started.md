@@ -34,7 +34,7 @@ Calipers
 
 The 3D printed parts consist of an inner and outer shell. 
 
-![](../.gitbook/assets/4%20%281%29.png)
+<img src="../.gitbook/assets/4%20%281%29.png" width="250" />
 
 Next line here
 
