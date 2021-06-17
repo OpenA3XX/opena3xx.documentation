@@ -16,21 +16,21 @@ So, why does such a simple circuit need a PCB? Can't we just put the components 
 ![Back of the PCB](../.gitbook/assets/korry_pcb3.png)
 
 Well, yes you can do that. And that was part of the design for those that really can't \(or don't want to\) use the PCB.  
-The PCB gives the whole unit some stability and structure. The base of the 3D printed outer shell sits between the PCB and the switch & LED's. This gives a base for the switch when it is pressed and pressure applied. It also holds the components in exact alignment, and most importantly, it removes the need for soldering wires inside the unit, it makes it neat and compact, and completley modular.  
+The PCB gives the whole unit some stability and structure. The base of the 3D printed outer shell sits between the PCB and the components. This gives a base for the switch when it is pressed and pressure is applied. It also holds the components in exact alignment, and most importantly it removes the need for soldering wires inside the unit. This makes it neat and compact, and completley modular.  
 Using the pin headers on the PCB means you can easily swap out units and reconnect them without the need for soldering. This makes things easier, but also prevents accidental damage to units with the soldering iron when working in tight spaces.
 
 The LED's have a common **CATHODE**.  
 The switches have 2 functions. One is _'Press to make'_ and the other is _'Press to break'_.  
-We are using the _'Press to make'_ function, which means that when the switch is closed, it completes the circuit and turns the switch 'On'. The other function does the opposite, and you should check with a multimeter which pins are which on the swtich. I personally break the legs off the switch that we don't need to avoid confusion at a later date. If you don't want to do this, the PCB has holes for these legs.
+We are using the _'Press to make'_ function, which means that when the switch is closed, it completes the circuit and turns the switch 'On'. The other function does the opposite, and you should check with a multimeter which pins are which on the swtich. I personally break the legs off the switch that we don't need to avoid confusion at a later date. If you don't want to do this, the PCB has holes for these legs. Just double check the orientation of the switch before you solder.
 
 ![](../.gitbook/assets/img_5354.jpg)
 
 The LED's are placed on either side of the switch, and they are deliberatly square as they are 'directional' and will throw their light in a straight line, helping to avoid light bleed across the unit.  
 Each LED then lights up it's respective 'Top' or 'Bottom' display when illuminated.  
-There are 5 pins on the board \(see below for the [wiring diagram](pcb.md#wiring-diagram)\), and this enables the switch and each LED to be connected individually.
+There are 5 pins on the board \(see below for the [wiring diagram](pcb.md#wiring-diagram)\), and this enables the switch and each LED to be connected and controlled individually.
 
-It's cheap, well designed, reliable and easy to get your own made. You can even get the small resistors already soldered to the board at the factory if you don't want to do those yourself.  
-We believe that this is a great way to start with the OpenA3XX project and give yourself some added confidence to take on some of the bigger projects, like the MCDU for example.
+It's cheap, well designed, reliable and easy to get your own made. **You can even get the small resistors already soldered to the board at the factory if you don't want to do those yourself.**  
+We believe that this is a great way to start with the OpenA3XX project and give yourself some added confidence to take on some of the bigger projects such as the MCDU, for example.
 
 ![](../.gitbook/assets/1.png)
 
@@ -44,7 +44,7 @@ We can't guarantee compatability across all the available companies, so if you f
 
 We have written this guide and used screenshots from a company called [JLCPCB](https://cart.jlcpcb.com/quote?_ga=2.247745921.762593180.1623936941-1679587472.1623150509). We have used them for our development and were happy with their service and product quality. That being said, we are in no way affiliated with them, and we receive no commision or similar from you using their service. You are free to use any company that you wish, as the process should be very similar.
 
-### Download Required Files
+### 1\) Download Required Files
 
 So, to get started we need to download some files from the OpenA3XX GitHub.  
 If you only need the PCB to be made and you will solder on the resistors yourself, then you only need the ZIP folder. If you would like the manufacturer to add on the resistors for you then you will need to BOM and CPL file also.  
@@ -53,7 +53,7 @@ If you only need the PCB to be made and you will solder on the resistors yoursel
 [BOM.xlsx](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/raw/main/Korry%20Switch/PCB%20Files/BOM.xlsx)  
 [CPL.xlsx](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/raw/main/Korry%20Switch/PCB%20Files/CPL.xlsx)
 
-### Upload Files
+### 2\) Upload Files
 
 _The first thing I would recommend doing at this stage is to create a customer account and login before creating the order. It'll make things easier when adding orders to the cart._  
   
@@ -65,7 +65,7 @@ Wait for the files to fully upload, this could take some time depending on your 
 
 ![](../.gitbook/assets/2-upload.jpg)
 
-### Choose Quantity & Design Settings
+### 3\) Choose Quantity & Design Settings
 
 Once everything is uploaded, you should see a preview of the PCB \(there will be a front and back side as it is 2 sided\). Make sure it looks as it should and that there hasn't been any processing errors or corrupted files. You should see that it has detected a 2 layer board of 20x20mm\(0.79x0.79 inches\).  
 Then you need to make some changes to the settings based on your preferences.
@@ -79,7 +79,7 @@ Then you need to make some changes to the settings based on your preferences.
 
 ![](../.gitbook/assets/3-settings.jpg)
 
-### Finish - Add To Cart
+### 4\) Finish - Add To Cart
 
 And that is pretty much it! Just to give you an example of the cost at this stage, for the 25 selected \(with order number removal\) here it comes to £4.52 and standard postage is £3.83. This comes to a very cheap £8.35! _**They do offer faster shipping services if you're willing to pay a bit more.**_
 
@@ -115,21 +115,21 @@ Firstly, click the magnifying glass on the row for R1. This will open up a searc
 ![](../.gitbook/assets/9-choose-parts.jpg)
 
 There is an option here to choose the pin headers. I would advise against doing this as it would be best to solder these on later when we can choose the exact clearance we need underneath.  
-If you wish to choose this though, then the part number would be **'C124379'**.
+If you wish to choose this option though, then the part number would be **'C124379'**.
 
 With both resistors selected, uncheck the box for the pin headers \(CON1\), unless of course you have decided to have them installed, and click 'Next'.
 
 ![](../.gitbook/assets/11-choose-parts.jpg)
 
 This will take you to the final page where you should confirm everything we have just done.  
-You should see just one row of components in the 'Selected Parts' section \(2 if you chose the pin headers too\), and you should see that it has allocated this part to both R1 and R2.  
-_If you chose the pin header, that should be allocated to CON1._
+You should see just one row of components in the 'Selected Parts' section \(2 rows if you chose the pin headers too\), and you should see that it has allocated this part to both R1 and R2.  
+\(_If you chose the pin header, that should be allocated to CON1\)_
 
 ![](../.gitbook/assets/12-choose-parts.jpg)
 
 And that's it! All done! Just add this to your cart and complete the checkout process.  
 Make sure you choose the appropriate shipping option for you.  
-Here you can see the cost \(correct at the time of writting this document, June 2021\) breakdown of the PCB board itself and the cost of having the resistors soldered for you on ALL 25 boards.
+Here you can see the cost breakdown \(correct at the time of writting this document, June 2021\) of the PCB board itself and the cost of having the resistors soldered for you on **ALL 25** boards.
 
 ![](../.gitbook/assets/13-checkout-2.jpg)
 
