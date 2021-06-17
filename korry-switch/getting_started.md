@@ -72,3 +72,5 @@ In short, you only need to download the relevant files and send them off to a PC
 The cost of having these boards made is actually a lot cheaper than you think!  
 You can find out more about this on the [PCB page](pcb.md).
 
+![](../.gitbook/assets/korry_pcb2.png)
+
