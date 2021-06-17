@@ -6,9 +6,9 @@ description: Everything you need to know to build your own Korry switch!
 
 ![3D Visualization](../.gitbook/assets/5.png)
 
-We have designed this Korry switch to be a very effective and efficient unit. It is a great part of the project to start with for those who may be unsure of their soldering abilities, or want to test the waters with something a bit smaller first.  
+We have designed this Korry switch to be a very effective and efficient unit. It is a great part of the project to start with for those who may be unsure of their soldering abilities or want to test the waters with something a bit smaller first.  
 For those who are experienced, this unit will be a hassle free and simple addition to your existing projects.  
-We are aware that the fact this unit uses a PCB may be a bit offputting to some people, but we assure you it is very accessible, cheap and easy to use. We beleive this design makes it much easier to use, and easy to connect up to other hardware.  
+We are aware that the fact this unit uses a PCB may be a bit off putting to some people, but we assure you it is very accessible, cheap and easy to use. We believe this design makes it much easier to use, and easy to connect to other hardware.  
 Please read through these pages carefully, as everything is explained in detail. If you have questions, please don't hesitate to contact us.
 
 ## What You Need:
@@ -52,7 +52,7 @@ When you're ready to print them, please goto the GitHub and download these 2 fil
 ****[**KS-3D-OUT1.stl**](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-OUT1.stl)\*\*\*\*
 
 {% hint style="danger" %}
-Print them in the orientation they are currently in. You will only need to add a support to the bridge on the inner part. No support is needed anywhere else as the lip on the outer part prints perfect without support.
+Print them in the orientation they are currently in. You will only need to add a support to the bridge on the inner part. No support is needed anywhere else as the lip on the outer part prints fine without support.
 {% endhint %}
 
 ## **Acrylic Inlays**
@@ -73,7 +73,7 @@ You can find out how to make these \(or order them to be made\) on the [Acrylic 
 The PCB is something that may be worrying or concerning to you. You may be thinking you can't make these yourself, or that it's too complicated.  
 Please be assured that it is a really easy solution, and all of the hard work is already done for you.
 
-In short, you only need to download the relevant files and send them off to a PCB manufacturer. There is even the option of having them install the small components to the board for you.  
+In short, you only need to download the relevant files and send them off to a PCB manufacturer. There is even the option of having them install the small components to the board for you if you wish.  
 The cost of having these boards made is actually a lot cheaper than you think!  
 You can find out more about this on the [PCB page](pcb.md).
 
