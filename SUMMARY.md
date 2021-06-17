@@ -25,6 +25,12 @@
 * [MCDU Controller](hardware-interface/mcdu-controller.md)
 * [Analog Hardware Controller](hardware-interface/analog-hardware-controller.md)
 
+## Korry Switch
+
+* [Getting Started](korry-switch/getting_started.md)
+* [PCB](korry-switch/pcb.md)
+* [Putting It Together](korry-switch/put_together.md)
+
 ## 3D Printing
 
 * [Introduction](3d-printing/intro.md)
