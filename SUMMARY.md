@@ -40,9 +40,13 @@
 * [PCB](korry-switch/pcb.md)
 * [Putting It Together](korry-switch/put_together.md)
 
+## MCDU
+
+* [Getting Started](mcdu/getting_started.md)
+* [Putting It Together](mcdu/put_together.md)
+
 ## Airbus A320 Panels
 
-* [MCDU](airbus-a320-panels/mcdu.md)
 * [Main Instrument Panel \(MIP\)](airbus-a320-panels/mip/README.md)
   * [FCU](airbus-a320-panels/mip/fcu.md)
 * [Overhead Area](airbus-a320-panels/overhead/README.md)
