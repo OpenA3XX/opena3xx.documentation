@@ -43,8 +43,8 @@ When you print these, please double check their sizes with calipers!
 {% endhint %}
 
 When you're ready to print them, please goto the GitHub and download these 2 files:  
-[**KS-3D-IN1.stl**](https://github.com/OpenA3XX/opena3xx.3DModelling/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-IN1.stl)  
-****[**KS-3D-OUT1.stl**](https://github.com/OpenA3XX/opena3xx.3DModelling/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-OUT1.stl)\*\*\*\*
+[**KS-3D-IN1.stl**](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-IN1.stl)  
+****[**KS-3D-OUT1.stl**](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-OUT1.stl)\*\*\*\*
 
 {% hint style="danger" %}
 Print them in the orientation they are currently in. You will only need to add a support to the bridge on the inner part. No support is needed anywhere else as the lip on the outer part prints perfect without support.
@@ -72,5 +72,5 @@ In short, you only need to download the relevant files and send them off to a PC
 The cost of having these boards made is actually a lot cheaper than you think!  
 You can find out more about this on the [PCB page](pcb.md).
 
-![](../.gitbook/assets/korry_pcb2.png)
+![3D render of PCB.](../.gitbook/assets/korry_pcb2.png)
 
