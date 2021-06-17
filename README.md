@@ -38,7 +38,7 @@ You will find a 'bill' of components listing everything that you will need.
 Secondly, you decide on how you want to manufacture the actual panel. Will it be 3D printed or CNC milled? Our team have designed the 3D models, and have designed them with the differences in 3D printing and CNC milling in mind. These designs are again, all open source and ready to download.  
 You assemble the parts together with the panel to complete the hardware interface.
 
-![](.gitbook/assets/render1.png) ![Logo](.gitbook/assets/render3.png)
+![MCDU 1](.gitbook/assets/render1.png) ![MCDU 2](.gitbook/assets/render3.png)
 
 #### Step 3:
 
