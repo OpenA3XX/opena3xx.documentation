@@ -29,6 +29,7 @@
 
 * [Getting Started](korry-switch/getting_started.md)
 * [PCB](korry-switch/pcb.md)
+* [Acrylic Inlays](korry-switch/acrylic_inlays.md)
 * [Putting It Together](korry-switch/put_together.md)
 
 ## 3D Printing
