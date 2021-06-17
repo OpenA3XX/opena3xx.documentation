@@ -34,7 +34,7 @@ Calipers
 
 The 3D printed parts consist of an inner and outer shell. 
 
-<img src="../.gitbook/assets/4%20%281%29.png" width="250" />
+<img src="https://raw.githubusercontent.com/OpenA3XX/opena3xx.3D-PRIVATE/main/3%20-%20James%20(Kavster)/Korry/Renders/V2/4.png?token=ARD7VHPZQI4J7EDKOTYDQWLAZMMPO" width="250" />
 
 Next line here
 
