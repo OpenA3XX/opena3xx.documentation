@@ -57,7 +57,9 @@ It is a small peice of acrylic that is 2mm thick and is 14mm x 14mm.
 The acrylic is painted black on one side, and then the text is engraved through that paint, **MIRRORED!**   
 It must be mirrored because the painted/engraved side will be the back, leaving the front to be smooth and clear for surface to push.
 
-![](../.gitbook/assets/img_5352.jpg)
+![Painted &amp; engraved \(mirrored\) side becomes the back.](../.gitbook/assets/img_5352.jpg)
+
+![This side then becomes the front, the part that is actually pressed.](../.gitbook/assets/img_5351.jpg)
 
 You can find out how to make these \(or order them to be made\) on the [Acrylic Inlay page](acrylic_inlays.md).
 
