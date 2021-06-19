@@ -144,6 +144,12 @@ The best way will be in the [Discord](https://discord.gg/55aufspsDs).
 
 ## Photos & Renders
 
+![Finished PCB from factory](../.gitbook/assets/image054.jpg)
+
+![Components added inside a prototype shell](../.gitbook/assets/image0.jpg)
+
+![PCB in prototype shell](../.gitbook/assets/image254.jpg)
+
 ![](../.gitbook/assets/5%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 ![](../.gitbook/assets/6%20%281%29.png)
