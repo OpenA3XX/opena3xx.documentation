@@ -4,7 +4,7 @@ description: Everything you need to know to build your own OpenA3XX Korry switch
 
 # Getting Started
 
-![3D Visualization](../.gitbook/assets/5%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+[![Korry Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1624105432/video_to_markdown/images/streamable--p5ibm7-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://streamable.com/p5ibm7 "Korry Test")
 
 We have designed this Korry switch to be a very effective and efficient unit. It is a great part of the project to start with for those who may be unsure of their soldering abilities or want to test the waters with something a bit smaller first.  
 For those who are experienced, this unit will be a hassle free and simple addition to your existing projects.  
