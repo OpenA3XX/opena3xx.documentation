@@ -150,6 +150,8 @@ The best way will be in the [Discord](https://discord.gg/55aufspsDs).
 
 ![PCB in prototype shell](../.gitbook/assets/image254.jpg)
 
+[![Korry Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1624105432/video_to_markdown/images/streamable--p5ibm7-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://streamable.com/p5ibm7 "Korry Test")
+
 ![](../.gitbook/assets/5%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 ![](../.gitbook/assets/6%20%281%29.png)
