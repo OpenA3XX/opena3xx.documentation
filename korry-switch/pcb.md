@@ -8,7 +8,7 @@ description: How to get the PCB for the Korry Switch.
 
 I want to start with a short explanation of what the PCB actually does, and why we have decided to choose this method of design.
 
-![Front of the PCB](../.gitbook/assets/korry_pcb2%20%282%29%20%281%29.png)
+![Front of the PCB](../.gitbook/assets/korry_pcb2%20%282%29.png)
 
 The unit itself contains a switch \(locking or non-locking\), 2 LED's and 2 resistors.  
 So, why does such a simple circuit need a PCB? Can't we just put the components in the 3D printed unit, solder a resistor to the LED leg and then solder some wires?
@@ -32,11 +32,11 @@ There are 5 pins on the board \(see below for the [wiring diagram](pcb.md#wiring
 It's cheap, well designed, reliable and easy to get your own made. **You can even get the small resistors already soldered to the board at the factory if you don't want to do those yourself.**  
 We believe that this is a great way to start with the OpenA3XX project and give yourself some added confidence to take on some of the bigger projects such as the MCDU, for example.
 
-![](../.gitbook/assets/1.png)
+![](../.gitbook/assets/1%20%281%29.png)
 
 ## How To Order Your Own
 
-There are many different PCB manufacturers out there. And some of them require different types of files from each other to make the board. We have created a diverse ZIP folder with many of the files required to give you a good choice of PCB manufacturers. 
+There are many different PCB manufacturers out there. And some of them require different types of files from each other to make the board. We have created a diverse ZIP folder with many of the files required to give you a good choice of PCB manufacturers.
 
 {% hint style="warning" %}
 We can't guarantee compatability across all the available companies, so if you find that you need a file type that is not in the ZIP folder, please let us know and we will aim to generate that file for you ASAP.
@@ -47,16 +47,16 @@ We have written this guide and used screenshots from a company called [JLCPCB](h
 ### 1\) Download Required Files
 
 So, to get started we need to download some files from the OpenA3XX GitHub.  
-If you only need the PCB to be made and you will solder on the resistors yourself, then you only need the ZIP folder. If you would like the manufacturer to add on the resistors for you then you will need to BOM and CPL file also.  
-  
+If you only need the PCB to be made and you will solder on the resistors yourself, then you only need the ZIP folder. If you would like the manufacturer to add on the resistors for you then you will need to BOM and CPL file also.
+
 [OpenA3XX\_Korry\_PCB.zip](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/raw/main/Korry%20Switch/PCB%20Files/OpenA3XX_Korry_PCB.zip)  
 [BOM.xlsx](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/raw/main/Korry%20Switch/PCB%20Files/BOM.xlsx)  
 [CPL.xlsx](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/raw/main/Korry%20Switch/PCB%20Files/CPL.xlsx)
 
 ### 2\) Upload Files
 
-_The first thing I would recommend doing at this stage is to create a customer account and login before creating the order. It'll make things easier when adding orders to the cart._  
-  
+_The first thing I would recommend doing at this stage is to create a customer account and login before creating the order. It'll make things easier when adding orders to the cart._
+
 When you arrive at your chosen manufacturers site, find their 'Order' page and navigate to it. In our example, we will be greeted with the page below. Click on 'Add gerber file' or it's equivalent on other websites. This will open a file chooser dialog window where you need to select the ZIP folder you downloaded in the previous step.
 
 ![](../.gitbook/assets/1-upload-files.jpg)
@@ -135,7 +135,7 @@ Here you can see the cost breakdown \(correct at the time of writting this docum
 
 This is meant to be used as a guide, and depending on the choices and quantities you select, your order will come out at a different cost.  
 Other manufacturers may be cheaper or more expensive. We have used this company to demonstrate the ordering process.  
-If you have any questions about this, please don't hesitate to contact us.   
+If you have any questions about this, please don't hesitate to contact us.  
 The best way will be in the [Discord](https://discord.gg/55aufspsDs).
 
 ## Wiring Diagram
@@ -150,9 +150,9 @@ The best way will be in the [Discord](https://discord.gg/55aufspsDs).
 
 ![PCB in prototype shell](../.gitbook/assets/image254.jpg)
 
-[![Korry Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1624105432/video_to_markdown/images/streamable--p5ibm7-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://streamable.com/p5ibm7 "Korry Test")
+[![Korry Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1624105432/video_to_markdown/images/streamable--p5ibm7-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://streamable.com/p5ibm7)
 
-![](../.gitbook/assets/5%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](../.gitbook/assets/5%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 ![](../.gitbook/assets/6%20%281%29.png)
 
@@ -160,5 +160,5 @@ The best way will be in the [Discord](https://discord.gg/55aufspsDs).
 
 ![](../.gitbook/assets/4%20%282%29%20%281%29.png)
 
-![](../.gitbook/assets/1%20%281%29.png)
+![](../.gitbook/assets/1.png)
 

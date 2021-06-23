@@ -4,7 +4,7 @@ description: Everything you need to know to build your own OpenA3XX Korry switch
 
 # Getting Started
 
-[![Korry Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1624105432/video_to_markdown/images/streamable--p5ibm7-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://streamable.com/p5ibm7 "Korry Test")
+[![Korry Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1624105432/video_to_markdown/images/streamable--p5ibm7-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://streamable.com/p5ibm7)
 
 We have designed this Korry switch to be a very effective and efficient unit. It is a great part of the project to start with for those who may be unsure of their soldering abilities or want to test the waters with something a bit smaller first.  
 For those who are experienced, this unit will be a hassle free and simple addition to your existing projects.  
@@ -52,7 +52,7 @@ The inner shell should be 16.8mm x 16.8mm.
 
 When you're ready to print them, please goto the GitHub and download these 2 files:  
 [**KS-3D-IN1.stl**](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-IN1.stl)  
-****[**KS-3D-OUT1.stl**](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-OUT1.stl)\*\*\*\*
+**\*\*\[**KS-3D-OUT1.stl_\*\]\(_[https://github.com/OpenA3XX/opena3xx.3D-CNC\_Parts/blob/main/Korry Switch/3D Print Parts/KS-3D-OUT1.stl\)\](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-OUT1.stl%29\)\*\*\*
 
 {% hint style="danger" %}
 Print them in the orientation they are currently in. You will only need to add a support to the bridge on the inner part. No support is needed anywhere else as the lip on the outer part prints fine without support.
@@ -62,7 +62,7 @@ Print them in the orientation they are currently in. You will only need to add a
 
 The acrylic inlays are the surface of the actual button. The bit that your finger presses.  
 It is a small peice of acrylic that is 2mm thick and is 14mm x 14mm.  
-The acrylic is painted black on one side, and then the text is engraved through that paint, **MIRRORED!**   
+The acrylic is painted black on one side, and then the text is engraved through that paint, **MIRRORED!**  
 It must be mirrored because the painted/engraved side will be the back, leaving the front to be smooth and clear for surface to push.
 
 ![Painted &amp; engraved \(mirrored\) side becomes the back.](../.gitbook/assets/img_5352.jpg)
