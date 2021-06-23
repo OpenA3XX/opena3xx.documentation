@@ -434,3 +434,9 @@ painting00=Printer/Printer.html?Index=1,	0, 0, 1024, 1024
 
 C:\FS2020\Community\flybywire-aircraft-a320-neo\SimObjects\AirPlanes\FlyByWire\_A320\_NEO\panel\panel.cfg
 
+
+
+### Modifying the panel.cfg requires simulator restart
+
+### Modifying the CSS file DO NOT REQUIRE simulator restart
+
