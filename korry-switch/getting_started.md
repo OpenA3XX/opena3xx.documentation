@@ -51,12 +51,18 @@ The inner shell should be 16.8mm x 16.8mm.
 {% endhint %}
 
 When you're ready to print them, please goto the GitHub and download these 2 files:  
-[**KS-3D-IN1.stl**](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-IN1.stl)  
-**\*\*\[**KS-3D-OUT1.stl_\*\]\(_[https://github.com/OpenA3XX/opena3xx.3D-CNC\_Parts/blob/main/Korry Switch/3D Print Parts/KS-3D-OUT1.stl\)\](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/blob/main/Korry%20Switch/3D%20Print%20Parts/KS-3D-OUT1.stl%29\)\*\*\*
+**KS-3D-IN1.stl**  
+**KS-3D-OUT1.stl**
 
 {% hint style="danger" %}
 Print them in the orientation they are currently in. You will only need to add a support to the bridge on the inner part. No support is needed anywhere else as the lip on the outer part prints fine without support.
 {% endhint %}
+
+### Optional Higher Quality Shells
+
+There is also the option of getting the shells professionally made. We tried a few different options and found the SLS In Nylon PA12 dyed black \(polish finishing optional\) was a really nice product, and very reasonably priced too. Here you can see the difference between PLA+ on the left and the professionally made SLS Nylon PA12 on the right.
+
+![](../.gitbook/assets/canvas.png)
 
 ## **Acrylic Inlays**
 
