@@ -72,6 +72,10 @@ We first take a sheet of carboard and lay this on our work surface, then run the
 Now you simply run the engrave file and watch the laser work its magic!  
 When the engraving is complete, you will see that there is still a layer of paint where the engraving is. This is perfectly normal, simply take a soft bristle brush and give them a quick brush over to get rid of the burnt paint, and you will be left with a perfect engraving.
 
+{% hint style="warning" %}
+Because the laser leaves such a clean finish, you may find that the LED shining through is a bit bright for your tastes. You can grab a spray can of 'automotive lens tint', or 'transparant black' and spray the engraved side lightly. This will dull down the luminence and spread the light more evenly.
+{% endhint %}
+
 ![](../.gitbook/assets/img_5460.jpg)
 
 ![](../.gitbook/assets/img_5458.jpg)
