@@ -53,6 +53,38 @@ The ADIRS Panel is structured in a 3x2 grid format:
 - Clearly labeled silk for each pin (D0–D39, VCC, GND, etc.).
 - Positioned at the top-right of the board for easy ribbon cable access.
 
+##### Connections
+| Pin | Signal           |
+|-----|------------------|
+| 1   | IR1-TOP_LED      |
+| 2   | IR1-BOTTOM_LED   |
+| 3   | IR1-KORRY_SW     |
+| 4   | IR2-TOP_LED      |
+| 5   | IR2-BOTTOM_LED   |
+| 6   | IR2-KORRY_SW     |
+| 7   | IR3-TOP_LED      |
+| 8   | IR3-BOTTOM_LED   |
+| 9   | IR3-KORRY_SW     |
+| 10  | ADR1-TOP_LED     |
+| 11  | ADR1-BOTTOM_LED  |
+| 12  | ADR1-KORRY_SW    |
+| 13  | ADR2-TOP_LED     |
+| 14  | ADR2-BOTTOM_LED  |
+| 15  | ADR2-KORRY_SW    |
+| 16  | ADR3-TOP_LED     |
+| 17  | ADR3-BOTTOM_LED  |
+| 18  | ADR3-KORRY_SW    |
+| 19  | ON_BAT_LED       |
+| 20  | ADR1-RS-OFF      |
+| 21  | ADR1-RS-NAV      |
+| 22  | ADR1-RS-ATT      |
+| 23  | ADR2-RS-OFF      |
+| 24  | ADR2-RS-NAV      |
+| 25  | ADR2-RS-ATT      |
+| 26  | ADR3-RS-OFF      |
+| 27  | ADR3-RS-NAV      |
+| 28  | ADR3-RS          |
+
 #### J5, J6, J8 – 5-Pin Rotary Selector Headers
 - Three identical headers for reading the IR selector positions.
 - Labeled `IR1`, `IR2`, and `IR3` respectively.
@@ -64,6 +96,7 @@ The ADIRS Panel is structured in a 3x2 grid format:
 
 #### J7 – 2-Pin Terminal Block
 - Power input terminal at the bottom center of the board.
+
 
 ---
 
