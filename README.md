@@ -8,7 +8,9 @@ Welcome to the [OpenA3XX](https://github.com/OpenA3XX) project, a truly open sou
 
 ### About the project
 
-The project was co-founded by a group of flight simulation enthusiasts based in Malta, Germany and the United Kingdom.  
+
+
+The project was co-founded by a David Bonnici a software engineer based in Malta with some initial help from other [Discord Members - Invitation Here!](https://discord.gg/Sm9VzrRuDP)
 It came into existance after the desire to be build a home cockpit for the A3XX family, but there was no single point of reference on how to tackle that kind of project from the beginning.  
 There were numerous sources of information out there, but nothing complete and all in one place.
 
@@ -33,27 +35,6 @@ So, that's all well and good we hear you say, but how does it all work?
 
 Our team have designed open source hardware. This means the plans and designs are there free for you to see and use. You can manufactuer the parts yourself, or use the plans to send off for them to be manufactured in a method of your choosing.
 
-We are currently starting with the MCDU, but the project will develop other panels and instruments as the project grows.  
-We are also in the early stages of developing the FCU and the overhead panels.
-
-#### Step 1:
-
-Firstly, you can take the PCB designs and get them manufactured. You can choose how the boards are assembled, but they have been designed so that a even novice can solder it all together themselves.  
-You will find a 'bill' of components listing everything that you will need.  
-![Hardware Controller](https://raw.githubusercontent.com/OpenA3XX/opena3xx.schematics/main/opena3xx-digital-hardware-controller/visualisation.PNG) ![PCB](https://github.com/OpenA3XX/opena3xx.schematics/blob/main/opena3xx-mcdu/MCDU_Render3.png?raw=true)
-
-#### Step 2:
-
-Secondly, you decide on how you want to manufacture the actual panel. Will it be 3D printed or CNC milled? Our team have designed the 3D models individually with care, and have designed them with the differences in 3D printing and CNC milling in mind. These designs are all open source and ready to download. You then assemble the parts together with the panel to complete the panel.
-
-![MCDU\_1](.gitbook/assets/render1.png) ![MCDU\_2](.gitbook/assets/render3.png)
-
-#### Step 3:
-
-Lastly, the open source software is downloaded and you configure the hardware to your system. The software is a fantastic, easy to use and powerful. It will run your hardware and handle the communication between it, and the simulator.
-
-![Software](https://github.com/OpenA3XX/opena3xx.configurator.admin/blob/main/src/assets/app.png?raw=true)
-
 ### So, what does it REALLY cost?
 
 To access everything that we've provided is 100% free.  
@@ -76,5 +57,5 @@ The community documentation and presentation is what you're reading now, and is 
 
 All of our current work is free to be seen on the [OpenA3XX](https://github.com/OpenA3XX) project GitHub repos.
 
-In the mean time, please consider joining our [Community Discord](https://discord.gg/d2Ck3SF4EY) server.
+In the mean time, please consider joining our [Community Discord](https://discord.gg/Sm9VzrRuDP) server.
 
