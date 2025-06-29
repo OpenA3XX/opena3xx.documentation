@@ -1,2 +1,0 @@
-# Main Instrument Panel \(MIP\)
-

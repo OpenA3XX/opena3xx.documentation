@@ -17,6 +17,12 @@
 * [Software Dependencies](development-setup/software-dependencies/README.md)
   * [Admin Configurator](development-setup/software-dependencies/admin-configurator.md)
 
+## Airbus A320 Panels
+* [Overhead Area](airbus-a320-panels/overhead/README.md)
+  * [Left Section](airbus-a320-panels/overhead/ovh-left.md)
+    * [ADIRS Panel](airbus-a320-panels/overhead/LeftSection/ADIRS/README.md)
+
+
 ## Hardware Interface
 
 * [Digital Hardware Controller](hardware-interface/hardware-controller/README.md)
@@ -46,13 +52,4 @@
 * [Getting Started](mcdu/getting_started.md)
 * [Putting It Together](mcdu/put_together.md)
 
-## Airbus A320 Panels
-
-* [Main Instrument Panel \(MIP\)](airbus-a320-panels/mip/README.md)
-  * [FCU](airbus-a320-panels/mip/fcu.md)
-* [Overhead Area](airbus-a320-panels/overhead/README.md)
-  * [Right Area](airbus-a320-panels/overhead/ovh-right.md)
-  * [Left Area](airbus-a320-panels/overhead/ovh-left.md)
-  * [Centre Area](airbus-a320-panels/overhead/ovh-center.md)
-* [Pedestal](airbus-a320-panels/pedestal.md)
 
