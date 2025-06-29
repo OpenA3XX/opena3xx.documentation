@@ -15,7 +15,7 @@ The hardware design includes a **PCB assembly**, **front acrylic panel**, and pr
 
 ## 🖼️ Panel Layout
 
-![alt](./img/acrylic-panels.png)
+![alt](./img/ADIRS/acrylic-panels.png)
 
 The ADIRS Panel is structured in a 3x2 grid format:
 
@@ -41,9 +41,9 @@ The ADIRS Panel is structured in a 3x2 grid format:
 
 ## 🛠️ PCB Details
 
-![alt](./img/pcb-design.png)
-![alt](./img/pcb-3d-front.png)
-![alt](./img/pcb-3d-back.png)
+![alt](./img/ADIRS/pcb-design.png)
+![alt](./img/ADIRS/pcb-3d-front.png)
+![alt](./img/ADIRS/pcb-3d-back.png)
 
 
 ### 🔌 Connectors & Interfaces
