@@ -3,7 +3,7 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 
 This ADIRS panel replicates the **Air Data and Inertial Reference System (ADIRS)** panel found in Airbus aircraft. It includes 3 sets of IR (Inertial Reference) controls, 3 sets of ADR (Air Data Reference) controls, and a central **ON BAT** indicator.
 
@@ -13,9 +13,9 @@ The hardware design includes a **PCB assembly**, **front acrylic panel**, and pr
 
 ---
 
-## 🖼️ Panel Layout
+## Panel Layout
 
-![alt](./img/ADIRS/acrylic-panels.png)
+![Acrylic Panels](./img/ADIRS/acrylic-panels.png)
 
 The ADIRS Panel is structured in a 3x2 grid format:
 
@@ -39,14 +39,14 @@ The ADIRS Panel is structured in a 3x2 grid format:
 
 ---
 
-## 🛠️ PCB Details
+## PCB Details
 
-![alt](./img/ADIRS/pcb-design.png)
-![alt](./img/ADIRS/pcb-3d-front.png)
-![alt](./img/ADIRS/pcb-3d-back.png)
+![PCB Design](./img/ADIRS/pcb-design.png)
+![PCB 3D Front](./img/ADIRS/pcb-3d-front.png)
+![PCB 3D Back](./img/ADIRS/pcb-3d-back.png)
 
 
-### 🔌 Connectors & Interfaces
+### Connectors & Interfaces
 
 #### J1 – 40-pin Header
 - Main interface header.
@@ -67,7 +67,7 @@ The ADIRS Panel is structured in a 3x2 grid format:
 
 ---
 
-### 💡 LEDs and Indicators
+### LEDs and Indicators
 
 - 39 yellow SMD LEDs (D1–D39) distributed across:
   - Switch perimeters for backlighting.
@@ -77,7 +77,7 @@ The ADIRS Panel is structured in a 3x2 grid format:
 
 ---
 
-### 🧷 Mounting and Assembly
+### Mounting and Assembly
 
 - 4 mounting holes in each corner for panel attachment.
 - Screw holes on acrylic and PCB match for sandwich assembly.
@@ -88,7 +88,7 @@ The ADIRS Panel is structured in a 3x2 grid format:
 
 ---
 
-## ⚙️ Fabrication and Panel Fit
+## Fabrication and Panel Fit
 
 ### Acrylic Faceplate:
 - Laser-etched legends for:
@@ -109,7 +109,7 @@ The ADIRS Panel is structured in a 3x2 grid format:
 
 ---
 
-## 🔎 PCB Design Reference
+## PCB Design Reference
 
 The routing view (KiCad-style):
 - Red = Top Layer (signal traces)  
