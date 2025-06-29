@@ -20,7 +20,7 @@
 ## Airbus A320 Panels
 * [Overhead Area](airbus-a320-panels/overhead/README.md)
   * [Left Section](airbus-a320-panels/overhead/ovh-left.md)
-    * [ADIRS Panel](airbus-a320-panels/overhead/LeftSection/ADIRS/README.md)
+    * [ADIRS Panel](airbus-a320-panels/overhead/left-section/ADIRS/README.md)
 
 
 ## Hardware Interface
@@ -48,7 +48,6 @@
 
 ## MCDU
 
-* [Temporary Hacks for the MCDU Screen Popover in FS2020 FBW](mcdu/temporary-hacks-for-the-mcdu-screen-popover-in-fs2020-fbw.md)
 * [Getting Started](mcdu/getting_started.md)
 * [Putting It Together](mcdu/put_together.md)
 
