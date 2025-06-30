@@ -3,84 +3,123 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 
-This panel replicates the **Flight Control (FLT CTL)** section of the Airbus OpenA3XX cockpit for the captain’s side. It provides toggle control and status indication for flight control computers:
+This panel replicates the **Flight Control (FLT CTL)** section of the Airbus A3XX cockpit, specifically for the captain's side. It enables simulation of control toggling for three key flight control computers:
 
 - **ELAC1** (Elevator Aileron Computer)
 - **SEC1** (Spoiler Elevator Computer)
 - **FAC1** (Flight Augmentation Computer)
 
-Each computer function is represented by a Korry-style push-button switch with integrated illumination.
+Each module is presented with a backlit Korry-style dual switch (`FAULT`, `OFF`) and matching legend.
 
 > ⚠️ **Flight Simulation Only – Not for use in real aviation applications.**
 
 ---
 
-## 🖼️ Panel Layout
+## Panel Layout
 
-The FLT CTL (CPT) panel features a single-row layout:
+This panel uses a horizontal alignment of the three control modules:
 
-- **ELAC1**, **SEC1**, **FAC1** (Left to Right)
-  - Each module includes:
-    - Dual push-button Korry-style switch with `FAULT` and `OFF` indicators.
-    - Silkscreen-labeled frames for switch position.
-    - LED illumination zones surrounding each module.
+![Acrylic Panels](./img/acrylic-panels.png)
 
-The panel is labeled with "FLT CTL" across the top and individual legends above each switch position.
+- From left to right: **ELAC1**, **SEC1**, **FAC1**
+- Each module contains:
+  - A square space to mount a dual Korry-style switch.
+  - Surrounding white silkscreen rectangles and labels.
+  - Top and bottom illumination points for the button segments.
+
+The front panel acrylic features laser-engraved legends for each function and a centered “FLT CTL” label above the modules.
 
 ---
 
-## 🛠️ PCB Details
+## PCB Details
 
 ### 🔌 Connectors & Interfaces
 
-#### J1 – 10-pin Header (Top Right)
-- Interface header positioned for ribbon cable access.
-- Silk labels indicate pin numbers (1–10).
+#### J1 – 40-Pin Header (Top Left)
+- Provides individual outputs for:
+  - Top LED
+  - Bottom LED
+  - Switch state (momentary)
 
-#### K1–K3 – Korry Switch Connectors
-- 4-pin headers for each of the three modules:
-  - **K1** – ELAC1
-  - **K2** – SEC1
-  - **K3** – FAC1
-- Clearly labeled silkscreen and positioned below each switch cutout.
+#### J7 – 2-Pin Terminal Block (Bottom Center)
+- Marked `+12V Variable Backlight` and `GND`
+- Supplies power to the LED backlight system.
 
----
+#### Korry Switch Pads
+- Labeled for:
+  - `TOP_LED +5V`, `TOP_LED GND`
+  - `BOTTOM_LED +5V`, `BOTTOM_LED GND`
+  - `SW_GND`, `SW_OUT`
 
-### 💡 LEDs and Indicators
+Each Korry switch has its own silkscreen footprint and dedicated labeled pad for clear wiring.
 
-- 18 yellow surface-mount LEDs (D1–D18), distributed as follows:
-  - 6 LEDs per Korry module zone.
-  - Positioned for consistent backlighting around switches.
 
-#### Resistors
-- Current-limiting resistors (R1–R6) for LED power regulation.
-
----
-
-### 🧷 Mounting and Assembly
-
-- 2 mounting holes, one on each side for enclosure or frame fitting.
-- Front panel silkscreen includes:
-  - Module boundaries
-  - Labeling for component alignment
-  - Pin orientation for each connector
-
----
-
-## ⚙️ Fabrication and Panel Fit
-
-This PCB is designed for integration with an external **acrylic front panel** that includes:
-- Cutouts for 3 rectangular Korry-style switches.
-- Engraved legends: `ELAC1`, `SEC1`, `FAC1`, and `FLT CTL`.
-- Alignment with LED backlighting zones.
-
-PCB size and cutouts match standard OpenA3XX dimensions for MIP compatibility.
+| Pin | Signal           |
+|-----|------------------|
+| 1   | ELEC1-TOP_LED    |
+| 2   | ELEC1-BOTTOM_LED |
+| 3   | ELEC1-KORRY_SW   |
+| 4   | SEC1-TOP_LED     |
+| 5   | SEC1-BOTTOM_LED  |
+| 6   | SEC1-KORRY_SW    |
+| 7   | FAC1-TOP_LED     |
+| 8   | FAC1-BOTTOM_LED  |
+| 9   | FAC1-KORRY_SW    |
 
 ---
 
-## 🔗 Attribution
+### LEDs and Indicators
+
+- Yellow surface-mounted LEDs (D1–D18) positioned around the three switch zones.
+  - Each module has 6 LEDs to ensure uniform backlighting.
+- Current-limiting resistors (R1–R6) are positioned near the LED arrays and matched per module.
+
+---
+
+### Mounting and Assembly
+
+- 2 large corner mounting holes on both sides of the PCB and acrylic panel.
+- The silkscreen includes:
+  - Accurate outlines for Korry switch modules.
+  - Pin labels and alignment guides.
+- Switches fit into center-aligned footprints with routed panel cutouts.
+
+---
+
+## Fabrication and Panel Fit
+
+### Acrylic Front Panel:
+- CNC-cut with legends for:
+  - `FLT CTL`, `ELAC1`, `SEC1`, `FAC1`
+  - Korry button text: `FAULT` (top), `OFF` (bottom)
+- Color-coded DXF-like layout:
+  - Red = Front Panel
+  - Blue = Back Panel
+  - Green = Engraving
+  - Orange = Korry Labels
+
+Acrylic cutouts align precisely with the PCB-mounted components and LEDs for consistent backlighting and tactile switch feedback.
+
+---
+
+## PCB Design Reference
+
+![PCB Design](./img/pcb-design.png)
+![PCB 3D Front](./img/pcb-3d-front.png)
+![PCB 3D Back](./img/pcb-3d-back.png)
+
+- Red traces = top copper layer  
+- Blue traces = bottom copper layer  
+- Yellow = component silkscreen and labels  
+- White silkscreen shows connector references and legends
+
+The board is designed for a clean signal path and simplified wiring between the 40-pin header and the three switches.
+
+---
+
+## Attribution
 
 - **Version**: FLT CTL (CPT) Panel v1.0  
 - **Project**: [OpenA3XX](https://www.github.com/OpenA3XX)  
