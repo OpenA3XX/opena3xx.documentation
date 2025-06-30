@@ -21,7 +21,7 @@
 * [Overhead Area](airbus-a320-panels/overhead/README.md)
   * [Left Section](airbus-a320-panels/overhead/ovh-left.md)
     * [ADIRS Panel](airbus-a320-panels/overhead/left-section/ADIRS/README.md)
-
+    * [FLT-CTL Panel](airbus-a320-panels/overhead/left-section/FLT-CTL/README.md)
 
 ## Hardware Interface
 
