@@ -23,8 +23,8 @@ This panel uses a horizontal layout featuring one Korry switch and two rotary se
 
 - From left to right:
   - **COMMAND**: Dual Korry-style switch (`EVAC` / `ON`)
-  - **HORN SHUT OFF**: Rotary selector
-  - **CAPT & PURS / CAPT**: Rotary selector
+  - **HORN SHUT OFF**: Push To Make Switch
+  - **CAPT & PURS / CAPT**: Up/Down Selector Switch
 
 The front panel acrylic features a centered **EVAC** title and clearly engraved labels above each interaction point.
 
