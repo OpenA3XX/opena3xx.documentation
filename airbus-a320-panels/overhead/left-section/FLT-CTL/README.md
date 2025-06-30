@@ -35,7 +35,7 @@ The front panel acrylic features laser-engraved legends for each function and a 
 
 ## PCB Details
 
-### 🔌 Connectors & Interfaces
+### Connectors & Interfaces
 
 #### J1 – 40-Pin Header (Top Left)
 - Provides individual outputs for:
