@@ -36,7 +36,7 @@
     * [APU Panel](airbus-a320-panels/overhead/mid-section/ANTI-ICE-CABIN-PRESS-EXT-LT-APU-INT-LT-SIGNS/README.md)
     * [INT-LT Panel](airbus-a320-panels/overhead/mid-section/ANTI-ICE-CABIN-PRESS-EXT-LT-APU-INT-LT-SIGNS/README.md)
     * [SIGNS Panel](airbus-a320-panels/overhead/mid-section/ANTI-ICE-CABIN-PRESS-EXT-LT-APU-INT-LT-SIGNS/README.md)
-  * [Right Section - FO Side](airbus-a320-panels/overhead/ovh-right.md)
+  * [Right Section - First Officer Side](airbus-a320-panels/overhead/ovh-right.md)
     * [FLT-CTL Panel](airbus-a320-panels/overhead/right-section/FLT-CTL/README.md)
     * [CARGO-VENT Panel](airbus-a320-panels/overhead/right-section/CARGO-VENT-CARGO-SMOKE/README.md)
     * [CARGO-SMOKE Panel](airbus-a320-panels/overhead/right-section/CARGO-VENT-CARGO-SMOKE/README.md)
