@@ -21,7 +21,7 @@ No problem! Many contributors start without prior experience. We're here to help
 ### GitHub Guide
 
 1. Create an account on [GitHub](https://github.com/join).
-2. Go to the main [OpenA3xx community repository](https://github.com/OpenA3XX/opena3xx.community.contributions).
+2. Go to the main [OpenA3XX community repository](https://github.com/OpenA3XX/opena3xx.community.contributions).
 3. In the top right corner, click the **Fork** button:  
   ![](https://i.redd.it/upc6sexvri151.jpg)
 4. This creates a copy of the repository in your account. You can upload, edit, or remove files as needed.

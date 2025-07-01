@@ -10,8 +10,9 @@ Welcome to the [OpenA3XX](https://github.com/OpenA3XX) project, a truly open sou
 
 
 
-The project was co-founded by a David Bonnici a software engineer based in Malta with some initial help from other [Discord Members - Invitation Here!](https://discord.gg/Sm9VzrRuDP)
-It came into existance after the desire to be build a home cockpit for the A3XX family, but there was no single point of reference on how to tackle that kind of project from the beginning.  
+The project was co-founded by [David Bonnici](https://www.linkedin.com/in/david-bonnici/) an Engineering Director, Hardware & Software Engineer based in Malta with some initial help from other [Discord Members - Invitation Here!](https://discord.gg/Sm9VzrRuDP).
+
+It came into existance after the desire to be build a home cockpit for the Airbus A3XX family, but there was no single point of reference on how to tackle that kind of project from the beginning.  
 There were numerous sources of information out there, but nothing complete and all in one place.
 
 The OpenA3XX project aims to provide that single point of reference. Whether you're a complete beginner with no experience in anything technical, or a seasoned flight sim enthustiast with a wide range of skills and knowledge, the OpenA3XX project will be a great project for you complete.
@@ -50,9 +51,8 @@ If you'd like to submit your modifications back to the community, you can do so 
 
 ### Current stages
 
-We are nearing the point of an initial 'stable' release for the software.  
-Our 3D design work is going through the finishing touches, and prototypes will be manufactured soon.  
-The PCB hardware is very nearly finished, and some boards have already been produced and assembled ready for testing.  
+We are nearing the point of an initial 'stable' release for the software which at the moment it's on-hold.
+Our 3D design work (Overhead Panel for now) is going through the finishing touches, and prototypes will be manufactured soon. The PCB hardware is very nearly finished.
 The community documentation and presentation is what you're reading now, and is constantly being updated.
 
 All of our current work is free to be seen on the [OpenA3XX](https://github.com/OpenA3XX) project GitHub repos.
