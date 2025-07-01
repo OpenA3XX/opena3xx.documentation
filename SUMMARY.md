@@ -23,7 +23,9 @@
     * [ADIRS Panel](airbus-a320-panels/overhead/left-section/ADIRS/README.md)
     * [FLT-CTL Panel](airbus-a320-panels/overhead/left-section/FLT-CTL/README.md)
     * [EVAC Panel](airbus-a320-panels/overhead/left-section/EVAC/README.md)
-    * [EMER-ELEC-PWR-GPWS-RCDR Panel](airbus-a320-panels/overhead/left-section/EMER-ELEC-PWR-GPWS-RCDR/README.md)
+    * [EMER-ELEC-PWR Panel](airbus-a320-panels/overhead/left-section/EMER-ELEC-PWR-GPWS-RCDR/README.md)
+    * [GPWS Panel](airbus-a320-panels/overhead/left-section/EMER-ELEC-PWR-GPWS-RCDR/README.md)
+    * [RCDR Panel](airbus-a320-panels/overhead/left-section/EMER-ELEC-PWR-GPWS-RCDR/README.md)
 
 ## Hardware Interface
 
