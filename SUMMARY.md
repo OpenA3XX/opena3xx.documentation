@@ -52,6 +52,10 @@
     * [RAIN-RPLNT Panel](airbus-a320-panels/overhead/right-section/VENTILATION-ENG-RAINRPLNT-WIPERS/README.md)
     * [WIPERS Panel](airbus-a320-panels/overhead/right-section/VENTILATION-ENG-RAINRPLNT-WIPERS/README.md)
 
+* [MIP (Front) Area](airbus-a320-panels/overhead/README.md)
+
+* [Pedestal Area](airbus-a320-panels/overhead/README.md)
+
 ## Korry Switch
 * [Getting Started](korry-switch/getting_started.md)
 * [Acrylic Inlays](korry-switch/acrylic_inlays.md)
