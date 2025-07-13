@@ -44,9 +44,51 @@ The ELEC Panel is laid out to match Airbus standard schematics:
 
 ### Connectors & Interfaces
 
-#### J1 – 40-pin Header
+#### J2 – 40-pin Header
 - Main signal interface to controller.
 - Pinout includes LEDs, switches, and display interface.
+
+
+#### CONNECTION J2
+| Pin | Signal                  |
+|-----|-------------------------|
+| 1   | COMMERCIAL-TOP_LED      |
+| 2   | COMMERCIAL-BOTTOM_LED   |
+| 3   | COMMERCIAL-KORRY_SW     |
+| 4   | IDG-1-TOP_LED           |
+| 5   | IDG-1-BOTTOM_LED        |
+| 6   | IDG-1-KORRY_SW          |
+| 7   | APU-GEN-TOP_LED         |
+| 8   | APU-GEN-BOTTOM_LED      |
+| 9   | APU-GEN-KORRY_SW        |
+| 10  | EXT-PWR-TOP_LED         |
+| 11  | EXT-PWR-BOTTOM_LED      |
+| 12  | EXT-PWR-KORRY_SW        |
+| 13  | GEN-2-TOP_LED           |
+| 14  | GEN-2-BOTTOM_LED        |
+| 15  | GEN-2-KORRY_SW          |
+| 16  | GALY-CAB-TOP_LED        |
+| 17  | GALY-CAB-BOTTOM_LED     |
+| 18  | GALY-CAB-KORRY_SW       |
+| 19  | GEN-1-TOP_LED           |
+| 20  | GEN-1-BOTTOM_LED        |
+| 21  | GEN-1-KORRY_SW          |
+| 22  | BUS-TIE-TOP_LED         |
+| 23  | BUS-TIE-BOTTOM_LED      |
+| 24  | BUS-TIE-KORRY_SW        |
+| 25  | AC-ESS-BUS-TOP_LED      |
+| 26  | AC-ESS-BUS-BOTTOM_LED   |
+| 27  | AC-ESS-BUS-KORRY_SW     |
+| 28  | IDG-2-TOP_LED           |
+| 29  | IDG-2-BOTTOM_LED        |
+| 30  | IDG-2-KORRY_SW          |
+| 31  | BAT-1-TOP_LED           |
+| 32  | BAT-1-BOTTOM_LED        |
+| 33  | BAT-1-KORRY_SW          |
+| 34  | BAT-2-TOP_LED           |
+| 35  | BAT-2-BOTTOM_LED        |
+| 36  | BAT-2-KORRY_SW          |
+
 
 #### K1–K10 – Korry Switch Connectors
 - Connectors for:
