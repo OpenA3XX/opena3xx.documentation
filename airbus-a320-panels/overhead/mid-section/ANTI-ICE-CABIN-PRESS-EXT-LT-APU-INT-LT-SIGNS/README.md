@@ -54,15 +54,15 @@ The panel is divided into functional sections for realism and usability:
 
 Includes 8 pushbuttons for lighting systems:
 
-| Switch           | Function                                              | Legend         | Type       |
-| ---------------- | ----------------------------------------------------- | -------------- | ---------- |
-| **STROBE**       | Wingtip anti-collision strobe lights                  | ON/AUTO/OFF    | 3 Position |
-| **BEACON**       | Red rotating lights (top and bottom)                  | ON/OFF         | 2 Position |
-| **WING**         | Floodlights for wing inspection                       | ON/OFF         | 2 Position |
-| **NAV & LOGO**   | Position lights and vertical stabilizer logo lighting | ON/OFF         | 2 Position |
-| **RWY TURN OFF** | Lights pointing toward runway turns                   | ON/OFF         | 2 Position |
-| **LAND L/R**     | Left and right landing lights                         | ON/OFF/RETRACT | 3 Position |
-| **NOSE**         | Nose gear taxi/takeoff light                          | T.O./TAXI/OFF  | 3 Position |
+| Switch           | Function                                              | Legend         | Type                 |
+| ---------------- | ----------------------------------------------------- | -------------- | -------------------- |
+| **STROBE**       | Wingtip anti-collision strobe lights                  | ON/AUTO/OFF    | 3 Position On/Off/On |
+| **BEACON**       | Red rotating lights (top and bottom)                  | ON/OFF         | 2 Position On/Off    |
+| **WING**         | Floodlights for wing inspection                       | ON/OFF         | 2 Position On/Off    |
+| **NAV & LOGO**   | Position lights and vertical stabilizer logo lighting | ON/OFF         | 2 Position On/Off    |
+| **RWY TURN OFF** | Lights pointing toward runway turns                   | ON/OFF         | 2 Position On/Off    |
+| **LAND L/R**     | Left and right landing lights                         | ON/OFF/RETRACT | 3 Position On/Off/On |
+| **NOSE**         | Nose gear taxi/takeoff light                          | T.O./TAXI/OFF  | 3 Position On/Off/On |
 
 Pushbuttons are circular with silkscreen labels indicating states (e.g., `ON`, `OFF`, `RETRACT`).
 
@@ -81,23 +81,23 @@ Each uses a **Korry-style switch** with `FAULT`, indications.
 
 ### INT LT (Internal Lighting)
 
-| Switch                     | Function                                         | Legend           | Type       |
-| -------------------------- | ------------------------------------------------ | ---------------- | ---------- |
-| **OVHD INTEG LT**          | Overhead panel integrated lighting               | OFF -> BRT       | Dial       |
-| **ICE IND & STBY COMPASS** | Backlights for standby compass and ice indicator | \_\_ / OFF       | 2 Position |
-| **DOME**                   | Dome light with BRT, DIM, OFF states             | BRT / DIM / OFF  | 3 Position |
-| **ANN LT**                 | Annunciator test light (TEST, BRT, DIM)          | TEST / BRT / DIM | 3 Position |
+| Switch                     | Function                                         | Legend           | Type                 |
+| -------------------------- | ------------------------------------------------ | ---------------- | -------------------- |
+| **OVHD INTEG LT**          | Overhead panel integrated lighting               | OFF -> BRT       | Dial                 |
+| **ICE IND & STBY COMPASS** | Backlights for standby compass and ice indicator | \_\_ / OFF       | 2 Position On/Off    |
+| **DOME**                   | Dome light with BRT, DIM, OFF states             | BRT / DIM / OFF  | 3 Position On/Off/On |
+| **ANN LT**                 | Annunciator test light (TEST, BRT, DIM)          | TEST / BRT / DIM | 3 Position On/Off/On |
 
 ---
 
 ### SIGNS
 
-| Switch           | Function                       | Legend                       | Type            |
-| ---------------- | ------------------------------ | ---------------------------- | --------------- |
-| **SEAT BELTS**   | Passenger fasten seatbelt sign | ON / OFF                     | 2 Position      |
-| **NO SMOKING**   | No smoking sign                | ON / OFF                     | 2 Position      |
-| **SIGNS MODE**   | Selector for `AUTO` mode logic | `* *` (Domino) / `OFF` Amber | Momentary Korry |
-| **EMER EXIT LT** | Emergency exit lighting switch | OFF / ARM / ON               | 3 Position      |
+| Switch           | Function                       | Legend                       | Type                 |
+| ---------------- | ------------------------------ | ---------------------------- | -------------------- |
+| **SEAT BELTS**   | Passenger fasten seatbelt sign | ON / OFF                     | 2 Position On/Off    |
+| **NO SMOKING**   | No smoking sign                | ON / OFF                     | 2 Position On/Off    |
+| **SIGNS MODE**   | Selector for `AUTO` mode logic | `* *` (Domino) / `OFF` Amber | Momentary Korry      |
+| **EMER EXIT LT** | Emergency exit lighting switch | OFF / ARM / ON               | 3 Position On/Off/On |
 
 ---
 
