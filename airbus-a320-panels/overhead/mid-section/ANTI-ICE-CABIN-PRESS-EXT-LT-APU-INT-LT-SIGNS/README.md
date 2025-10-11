@@ -103,8 +103,11 @@ Each uses a **Korry-style switch** with `FAULT`, indications.
 
 ## PCB Details
 
+_Design_
 ![PCB Design](./img/pcb-design.png)  
+_Front_
 ![PCB 3D Front](./img/pcb-3d-front.png)  
+_Back_
 ![PCB 3D Back](./img/pcb-3d-back.png)
 
 ---
