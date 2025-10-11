@@ -23,15 +23,15 @@ We are considering the possibility of holding stock of some items such as these 
 ## How To Make Yourself
 
 Making the inlays is a fairly straight forward process.  
-We highly reccomend making these with Acrylic and a CNC \(optional laser\).   
-_\(You could technically 3D print these with a clear filament, but you would then need to paint out the back around the text by hand. So, although it is possible, the time and complexity of making it through 3D printing is outweighed by the speed and efficiency of making these from Acrylic\)._  
-  
+We highly reccomend making these with Acrylic and a CNC \(optional laser\).  
+_\(You could technically 3D print these with a clear filament, but you would then need to paint out the back around the text by hand. So, although it is possible, the time and complexity of making it through 3D printing is outweighed by the speed and efficiency of making these from Acrylic\)._
+
 We do not reccomend any particular brand or product, but we have used a cheap £25~ laser add on for our engraving. It is a simple case of just replacing the spindle in the CNC machine with the laser.  
 This will **not** cut the material, so there is still a need for the actual spindle, but it does gives a much higher quality finish \(and higher resolution\) for the engraving.  
 It is not **essential**, and you can still acheive great results with just the CNC spindle and no laser.
 
 {% hint style="success" %}
- With this being an open source project though, we would greatly welcome a different solution for 3D printing to add to the project. If you have some ideas, please feel free to submit them in the community contribution section where the team can review it.
+With this being an open source project though, we would greatly welcome a different solution for 3D printing to add to the project. If you have some ideas, please feel free to submit them in the community contribution section where the team can review it.
 {% endhint %}
 
 ### CNC Only
@@ -104,4 +104,3 @@ With that said, here is a step-by-step guide to setting up the laser engraving i
 {% hint style="warning" %}
 Step-by-step guide will be uploaded here soon. It is still currently under development.
 {% endhint %}
-

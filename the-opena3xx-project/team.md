@@ -4,7 +4,8 @@ description: Meet the people behind the project.
 
 # Our Team
 
-## David Bonnici  
+## David Bonnici
+
 **Founder of OpenA3XX**
 
 ![David Bonnici - Founder of OpenA3XX](../.gitbook/assets/david.jpg)
@@ -14,7 +15,8 @@ description: Meet the people behind the project.
 
 ---
 
-## Mark Buhagiar  
+## Mark Buhagiar
+
 **First Officer, KM Malta Airlines — OpenA3XX Consultant (Real Life Airbus Pilot)**
 
 ![Mark Buhagiar - First Officer KM Malta Airlines - OpenA3XX Consultant (Real Life Airbus Pilot)](../.gitbook/assets/6faec2ac-792a-4e17-a6f9-073711.jpg)
@@ -26,13 +28,13 @@ description: Meet the people behind the project.
 
 ## Thanks to OpenA3XX Ex-Contributors
 
-### Timo Rieforth  
+### Timo Rieforth
+
 ![Timo Rieforth](../.gitbook/assets/timo2.jpg)
 
 - **Discord Handle:** `@DRIV3R#6159`
 
 ### Jak Kav ([KavSimulations](https://jak-kav.co.uk/))
-
 
 ![Jak Kav](../.gitbook/assets/jakav221.jpg)
 

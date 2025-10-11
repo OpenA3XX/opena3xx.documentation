@@ -1,4 +1,3 @@
-# OpenA3XX – Overhead - Left Section 
-**Flight Simulation Hardware**
----
+# OpenA3XX – Overhead - Left Section
 
+## **Flight Simulation Hardware**

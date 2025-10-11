@@ -49,7 +49,7 @@ We have written this guide and used screenshots from a company called [JLCPCB](h
 So, to get started we need to download some files from the OpenA3XX GitHub.  
 If you only need the PCB to be made and you will solder on the resistors yourself, then you only need the ZIP folder. If you would like the manufacturer to add on the resistors for you then you will need to BOM and CPL file also.
 
-[OpenA3XX\_Korry\_PCB.zip](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/raw/main/Korry%20Switch/PCB%20Files/OpenA3XX_Korry_PCB.zip)  
+[OpenA3XX_Korry_PCB.zip](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/raw/main/Korry%20Switch/PCB%20Files/OpenA3XX_Korry_PCB.zip)  
 [BOM.xlsx](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/raw/main/Korry%20Switch/PCB%20Files/BOM.xlsx)  
 [CPL.xlsx](https://github.com/OpenA3XX/opena3xx.3D-CNC_Parts/raw/main/Korry%20Switch/PCB%20Files/CPL.xlsx)
 
@@ -74,7 +74,7 @@ Then you need to make some changes to the settings based on your preferences.
 2. Make sure the PCB thickness is set to 1.6mm.
 3. Choose a PCB colour. We chose blue because it was our preference, but you should be aware that some colours can't be produced in the same quantities as others. We found that if you want more than 30 with resistors soldered on already for you, that you would need to choose green for example. **Ultimatley, the colour doesn't matter as it won't be seen anyway!**
 4. You can change the surface finish to something that doesn't have lead if you wish, but keep an eye on the cost. Using the standard HASL\(with lead\) is significantly cheaper.
-5. Optionally you can choose to remove the order number. This has a small additional cost. They will print an order number on the PCB at the factory, but you can have this removed if you wish. 
+5. Optionally you can choose to remove the order number. This has a small additional cost. They will print an order number on the PCB at the factory, but you can have this removed if you wish.
 6. You can leave all the other settings as they are, and ignore the advanced settings section. It is not required to change any of these from the default.
 
 ![](../.gitbook/assets/3-settings.jpg)
@@ -161,4 +161,3 @@ The best way will be in the [Discord](https://discord.gg/55aufspsDs).
 ![](../.gitbook/assets/4%20%282%29%20%281%29.png)
 
 ![](../.gitbook/assets/1.png)
-
