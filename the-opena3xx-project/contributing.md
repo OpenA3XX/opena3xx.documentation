@@ -23,10 +23,10 @@ No problem! Many contributors start without prior experience. We're here to help
 1. Create an account on [GitHub](https://github.com/join).
 2. Go to the main [OpenA3XX community repository](https://github.com/OpenA3XX/opena3xx.community.contributions).
 3. In the top right corner, click the **Fork** button:  
-  ![](https://i.redd.it/upc6sexvri151.jpg)
+   ![](https://i.redd.it/upc6sexvri151.jpg)
 4. This creates a copy of the repository in your account. You can upload, edit, or remove files as needed.
 5. When you're ready to submit your changes, click **Pull Request**:  
-  ![](https://user-images.githubusercontent.com/35271042/79503741-8c396a00-7fe6-11ea-97e5-8fd1b3059eb8.png)
+   ![](https://user-images.githubusercontent.com/35271042/79503741-8c396a00-7fe6-11ea-97e5-8fd1b3059eb8.png)
 6. Complete the title and provide a brief description outlining your changes, then click **Submit**. The team will review and respond.
 
 For a more detailed explanation, see the [GitHub Documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
@@ -39,8 +39,8 @@ It's a good idea to let us and others know what you're working on.
 This helps prevent duplicate efforts and gives everyone an overview of ongoing work.
 ```
 
-
 **General Guidelines:**
+
 - Follow the existing code style and formatting.
 - Write clear, concise commit messages.
 - Document your changes where necessary.

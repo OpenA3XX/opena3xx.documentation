@@ -1,5 +1,5 @@
-
 # OpenA3XX – HYD & FUEL Panel v1.0
+
 **Flight Simulation Hardware – Hydraulic & Fuel Control Panel**
 
 ---
@@ -21,16 +21,18 @@ The design includes a **PCB**, **acrylic front panel**, and **component silk ove
 The HYD & FUEL panel consists of two horizontally arranged system zones:
 
 ### Top Half – Hydraulic System:
+
 - **GREEN**, **BLUE**, and **YELLOW** hydraulic circuits.
 - Switches for:
-  - ENG 1 PUMP
-  - ELEC PUMP (Blue)
-  - PTU
-  - ENG 2 PUMP
-  - ELEC PUMP (Yellow)
+    - ENG 1 PUMP
+    - ELEC PUMP (Blue)
+    - PTU
+    - ENG 2 PUMP
+    - ELEC PUMP (Yellow)
 - **RAT MAN ON** area (with display placeholder).
 
 ### Bottom Half – Fuel System:
+
 - Dual sets of **L TK PUMPS** and **R TK PUMPS** (1 and 2).
 - **CTR TK L XFR** and **CTR TK R XFR** for center tank transfer.
 - **MODE SEL** switch for auto/manual.
@@ -49,15 +51,15 @@ The HYD & FUEL panel consists of two horizontally arranged system zones:
 ### Connectors & Interfaces
 
 #### Dual 40-Pin Headers
+
 - Located at the top-left and top-right.
 - Interface for all Korry switch modules, LEDs, and signal traces.
 - Pin silkscreen labeled 1–40 for each connector.
 
-
 #### CONNECTION J2
 
 | Pin | Signal                      |
-|-----|-----------------------------|
+| --- | --------------------------- |
 | 1   | ENG-1-PUMP-TOP_LED          |
 | 2   | ENG-1-PUMP-BOTTOM_LED       |
 | 3   | ENG-1-PUMP-KORRY_SW         |
@@ -101,27 +103,29 @@ The HYD & FUEL panel consists of two horizontally arranged system zones:
 #### CONNECTION J1
 
 | Pin | Signal                |
-|-----|-----------------------|
+| --- | --------------------- |
 | 1   | RAT-MAN-ON-TOP_LED    |
 | 2   | RAT-MAN-ON-BOTTOM_LED |
 | 3   | RAT-MAN-ON-KORRY_SW   |
 
 #### Terminal Blocks
+
 - Two 2-pin screw terminal blocks for power input at each corner.
 
 #### Switch Modules
+
 - 14 Korry-style switch modules with:
-  - TOP (FAULT) and BOTTOM (OFF/ON or MAN/AUTO) buttons.
-  - 4-pin headers (K1–K14) for connecting each switch.
+    - TOP (FAULT) and BOTTOM (OFF/ON or MAN/AUTO) buttons.
+    - 4-pin headers (K1–K14) for connecting each switch.
 
 ---
 
 ### LEDs and Indicators
 
 - Over 90 SMD yellow LEDs (D1–D90+) are distributed to:
-  - Illuminate around each switch zone.
-  - Backlight FAULT and ON indicators.
-  - Highlight RAT MAN ON zone.
+    - Illuminate around each switch zone.
+    - Backlight FAULT and ON indicators.
+    - Highlight RAT MAN ON zone.
 - Each LED is paired with a resistor (R1–R35 approx.) for current limiting.
 
 ---
@@ -130,33 +134,35 @@ The HYD & FUEL panel consists of two horizontally arranged system zones:
 
 - Acrylic panel matches PCB mounting holes for aligned sandwich assembly.
 - Top silkscreen includes clear labels for:
-  - HYDRAULIC: ENG PUMPs, ELEC PUMPs, PTU, RAT
-  - FUEL: TK PUMPs, XFRs, MODE, FEED
-  - Labeled flow paths and AUTO indicators.
+    - HYDRAULIC: ENG PUMPs, ELEC PUMPs, PTU, RAT
+    - FUEL: TK PUMPs, XFRs, MODE, FEED
+    - Labeled flow paths and AUTO indicators.
 
 ---
 
 ## Fabrication and Panel Fit
 
 ### Acrylic Faceplate:
+
 - CNC-milled to fit:
-  - 14 Korry-style switch modules
-  - Display window for RAT
+    - 14 Korry-style switch modules
+    - Display window for RAT
 - Engraved legends:
-  - `ENG 1 PUMP`, `ELEC PUMP`, `PTU`, `ENG 2 PUMP`, `RAT MAN ON`
-  - `L TK PUMPS`, `CTR TK XFR`, `MODE SEL`, `R TK PUMPS`
-  - `X FEED`, `APU`, `ENG 1`, `ENG 2`, `AUTO`, `FAULT`, `OFF`, `ON`, `MAN`
+    - `ENG 1 PUMP`, `ELEC PUMP`, `PTU`, `ENG 2 PUMP`, `RAT MAN ON`
+    - `L TK PUMPS`, `CTR TK XFR`, `MODE SEL`, `R TK PUMPS`
+    - `X FEED`, `APU`, `ENG 1`, `ENG 2`, `AUTO`, `FAULT`, `OFF`, `ON`, `MAN`
 - Color-coded design layers:
-  - Red = Front Panel
-  - Blue = Rear Panel
-  - Green = Engraving
-  - Orange = Switch Legends
+    - Red = Front Panel
+    - Blue = Rear Panel
+    - Green = Engraving
+    - Orange = Switch Legends
 
 ---
 
 ## PCB Design Reference
 
 Routing view (KiCad style):
+
 - Red = Top signal layer
 - Blue = Bottom layer
 - Yellow = Silkscreen outlines
@@ -166,7 +172,7 @@ Routing view (KiCad style):
 
 ## 🔗 Attribution
 
-- **Version**: HYD & FUEL Panel v1.0  
-- **Project**: [OpenA3XX](https://www.github.com/OpenA3XX)  
-- **License**: CC BY-SA 4.0  
+- **Version**: HYD & FUEL Panel v1.0
+- **Project**: [OpenA3XX](https://www.github.com/OpenA3XX)
+- **License**: CC BY-SA 4.0
 - **Note**: Design for simulation use only.

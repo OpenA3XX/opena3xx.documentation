@@ -1,4 +1,5 @@
-# OpenA3XX – FLT CTL Panel (CPT) v1.0  
+# OpenA3XX – FLT CTL Panel (CPT) v1.0
+
 **Flight Simulation Hardware – Flight Control Panel (Captain Side)**
 
 ---
@@ -25,9 +26,9 @@ This panel uses a horizontal alignment of the three control modules:
 
 - From left to right: **ELAC1**, **SEC1**, **FAC1**
 - Each module contains:
-  - A square space to mount a dual Korry-style switch.
-  - Surrounding white silkscreen rectangles and labels.
-  - Top and bottom illumination points for the button segments.
+    - A square space to mount a dual Korry-style switch.
+    - Surrounding white silkscreen rectangles and labels.
+    - Top and bottom illumination points for the button segments.
 
 The front panel acrylic features laser-engraved legends for each function and a centered “FLT CTL” label above the modules.
 
@@ -38,26 +39,28 @@ The front panel acrylic features laser-engraved legends for each function and a 
 ### Connectors & Interfaces
 
 #### J1 – 40-Pin Header (Top Left)
+
 - Provides individual outputs for:
-  - Top LED
-  - Bottom LED
-  - Switch state (momentary)
+    - Top LED
+    - Bottom LED
+    - Switch state (momentary)
 
 #### J7 – 2-Pin Terminal Block (Bottom Center)
+
 - Marked `+12V Variable Backlight` and `GND`
 - Supplies power to the LED backlight system.
 
 #### Korry Switch Pads
+
 - Labeled for:
-  - `TOP_LED +5V`, `TOP_LED GND`
-  - `BOTTOM_LED +5V`, `BOTTOM_LED GND`
-  - `SW_GND`, `SW_OUT`
+    - `TOP_LED +5V`, `TOP_LED GND`
+    - `BOTTOM_LED +5V`, `BOTTOM_LED GND`
+    - `SW_GND`, `SW_OUT`
 
 Each Korry switch has its own silkscreen footprint and dedicated labeled pad for clear wiring.
 
-
 | Pin | Signal           |
-|-----|------------------|
+| --- | ---------------- |
 | 1   | ELEC1-TOP_LED    |
 | 2   | ELEC1-BOTTOM_LED |
 | 3   | ELEC1-KORRY_SW   |
@@ -73,7 +76,7 @@ Each Korry switch has its own silkscreen footprint and dedicated labeled pad for
 ### LEDs and Indicators
 
 - Yellow surface-mounted LEDs (D1–D18) positioned around the three switch zones.
-  - Each module has 6 LEDs to ensure uniform backlighting.
+    - Each module has 6 LEDs to ensure uniform backlighting.
 - Current-limiting resistors (R1–R6) are positioned near the LED arrays and matched per module.
 
 ---
@@ -82,8 +85,8 @@ Each Korry switch has its own silkscreen footprint and dedicated labeled pad for
 
 - 2 large corner mounting holes on both sides of the PCB and acrylic panel.
 - The silkscreen includes:
-  - Accurate outlines for Korry switch modules.
-  - Pin labels and alignment guides.
+    - Accurate outlines for Korry switch modules.
+    - Pin labels and alignment guides.
 - Switches fit into center-aligned footprints with routed panel cutouts.
 
 ---
@@ -91,14 +94,15 @@ Each Korry switch has its own silkscreen footprint and dedicated labeled pad for
 ## Fabrication and Panel Fit
 
 ### Acrylic Front Panel:
+
 - CNC-cut with legends for:
-  - `FLT CTL`, `ELAC1`, `SEC1`, `FAC1`
-  - Korry button text: `FAULT` (top), `OFF` (bottom)
+    - `FLT CTL`, `ELAC1`, `SEC1`, `FAC1`
+    - Korry button text: `FAULT` (top), `OFF` (bottom)
 - Color-coded DXF-like layout:
-  - Red = Front Panel
-  - Blue = Back Panel
-  - Green = Engraving
-  - Orange = Korry Labels
+    - Red = Front Panel
+    - Blue = Back Panel
+    - Green = Engraving
+    - Orange = Korry Labels
 
 Acrylic cutouts align precisely with the PCB-mounted components and LEDs for consistent backlighting and tactile switch feedback.
 
@@ -110,9 +114,9 @@ Acrylic cutouts align precisely with the PCB-mounted components and LEDs for con
 ![PCB 3D Front](./img/pcb-3d-front.png)
 ![PCB 3D Back](./img/pcb-3d-back.png)
 
-- Red traces = top copper layer  
-- Blue traces = bottom copper layer  
-- Yellow = component silkscreen and labels  
+- Red traces = top copper layer
+- Blue traces = bottom copper layer
+- Yellow = component silkscreen and labels
 - White silkscreen shows connector references and legends
 
 The board is designed for a clean signal path and simplified wiring between the 40-pin header and the three switches.
@@ -121,7 +125,7 @@ The board is designed for a clean signal path and simplified wiring between the 
 
 ## Attribution
 
-- **Version**: FLT CTL (CPT) Panel v1.0  
-- **Project**: [OpenA3XX](https://www.github.com/OpenA3XX)  
-- **License**: CC BY-SA 4.0  
+- **Version**: FLT CTL (CPT) Panel v1.0
+- **Project**: [OpenA3XX](https://www.github.com/OpenA3XX)
+- **License**: CC BY-SA 4.0
 - **Note**: Design for simulation use only.

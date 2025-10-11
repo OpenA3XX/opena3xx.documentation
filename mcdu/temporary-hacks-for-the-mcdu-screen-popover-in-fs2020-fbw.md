@@ -4,275 +4,270 @@
 @import url("/CSS/A32NX_Display_Common.css");
 
 :root {
-  font-family: "HoneywellMCDU" !important;
+	font-family: "HoneywellMCDU" !important;
 }
 
 @font-face {
-  src: url("/Fonts/HoneywellMCDU.ttf") format("truetype");
-  font-family: "HoneywellMCDU";
-  font-style: normal;
-  font-weight: 900;
+	src: url("/Fonts/HoneywellMCDU.ttf") format("truetype");
+	font-family: "HoneywellMCDU";
+	font-style: normal;
+	font-weight: 900;
 }
 
 @font-face {
-  src: url("/Fonts/HoneywellMCDUSmall.ttf") format("truetype");
-  font-family: "HoneywellMCDUSmall";
-  font-style: normal;
-  font-weight: 900;
+	src: url("/Fonts/HoneywellMCDUSmall.ttf") format("truetype");
+	font-family: "HoneywellMCDUSmall";
+	font-style: normal;
+	font-weight: 900;
 }
 
 #highlight {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  z-index: 10;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
 }
 
 @keyframes TemporaryShow {
-  0%,
-  100% {
-    visibility: visible;
-  }
+	0%,
+	100% {
+		visibility: visible;
+	}
 }
 
 @keyframes TemporaryHide {
-  0%,
-  100% {
-    visibility: hidden;
-  }
+	0%,
+	100% {
+		visibility: hidden;
+	}
 }
 
 #SystemTesting {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
 }
 
 #highlight {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  z-index: 10;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
 }
 
 #Mainframe {
-  width: 100%;
-  height: 100%;
-  background-color: rgb(4, 4, 5);
+	width: 100%;
+	height: 100%;
+	background-color: rgb(4, 4, 5);
 }
 
 span:empty:before {
-  content: " ";
+	content: " ";
 }
 
 a320-neo-cdu-main-display {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  font-family: "HoneywellMCDU" !important;
-  font-size: 5.3vw !important;
-  color: var(--displayWhite);
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	font-family: "HoneywellMCDU" !important;
+	font-size: 5.3vw !important;
+	color: var(--displayWhite);
 }
 
 a320-neo-cdu-main-display div {
-  font-family: "HoneywellMCDU" !important;
+	font-family: "HoneywellMCDU" !important;
 }
 
 a320-neo-cdu-main-display text {
-  font-family: "HoneywellMCDU" !important;
+	font-family: "HoneywellMCDU" !important;
 }
 
 .white {
-  color: var(--mcduWhite);
+	color: var(--mcduWhite);
 }
 
 .inop {
-  color: var(--mcduLightGrey);
+	color: var(--mcduLightGrey);
 }
 
 .cyan {
-  color: var(--mcduCyan);
+	color: var(--mcduCyan);
 }
 
 .yellow {
-  color: var(--mcduYellow);
+	color: var(--mcduYellow);
 }
 
 .green {
-  color: var(--mcduGreen);
+	color: var(--mcduGreen);
 }
 
 .amber {
-  color: var(--mcduAmber);
+	color: var(--mcduAmber);
 }
 
 .red {
-  color: var(--mcduRed);
+	color: var(--mcduRed);
 }
 
 .magenta {
-  color: var(--mcduMagenta);
+	color: var(--mcduMagenta);
 }
 
 fmc-main-display::before {
-  content: " ";
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background: linear-gradient(rgba(9, 13, 20, 1) 50%, rgba(9, 13, 20, 1) 50%),
-    linear-gradient(
-      90deg,
-      rgba(9, 13, 20, 1),
-      rgba(9, 13, 20, 1),
-      rgba(9, 13, 20, 1)
-    );
-  z-index: 2;
-  background-size: 100% 2px, 3px 100%;
-  pointer-events: none;
+	content: " ";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: linear-gradient(rgba(9, 13, 20, 1) 50%, rgba(9, 13, 20, 1) 50%), linear-gradient(90deg, rgba(9, 13, 20, 1), rgba(9, 13, 20, 1), rgba(9, 13, 20, 1));
+	z-index: 2;
+	background-size:
+		100% 2px,
+		3px 100%;
+	pointer-events: none;
 }
 
 #header {
-  height: 8.1%;
-  margin-top: 2.2%;
-  margin-bottom: -0.3%;
-  display: block;
-  text-align: center;
+	height: 8.1%;
+	margin-top: 2.2%;
+	margin-bottom: -0.3%;
+	display: block;
+	text-align: center;
 }
 
 #page-info {
-  display: block;
-  text-align: right;
-  position: absolute;
-  top: 7.5%;
-  right: 5%;
+	display: block;
+	text-align: right;
+	position: absolute;
+	top: 7.5%;
+	right: 5%;
 }
 
 #title-left {
-  display: block;
-  text-align: right;
-  position: absolute;
-  top: 7.5%;
-  left: 5%;
+	display: block;
+	text-align: right;
+	position: absolute;
+	top: 7.5%;
+	left: 5%;
 }
 
 .b-text {
-  letter-spacing: normal;
+	letter-spacing: normal;
 }
 
 .s-text,
 text .s-text,
 div .s-text,
 span .s-text {
-  font-family: HoneywellMCDUSmall, HoneywellMCDU !important;
-  line-height: 1.25;
+	font-family: HoneywellMCDUSmall, HoneywellMCDU !important;
+	line-height: 1.25;
 }
 
 .b-text {
-  letter-spacing: normal;
+	letter-spacing: normal;
 }
 
 .msg-text {
-  margin-top: 1.5% !important;
-  height: 8.1% !important;
+	margin-top: 1.5% !important;
+	height: 8.1% !important;
 }
 
 .msg-text.label-left {
-  left: 4% !important;
+	left: 4% !important;
 }
 
 .msg-text.label-right {
-  right: 6% !important;
+	right: 6% !important;
 }
 
 .label {
-  height: 6.55%;
-  margin: 0;
-  white-space: pre;
+	height: 6.55%;
+	margin: 0;
+	white-space: pre;
 }
 
 .label-left {
-  position: absolute;
-  left: 4.5%;
-  width: 100%;
-  text-align: left;
+	position: absolute;
+	left: 4.5%;
+	width: 100%;
+	text-align: left;
 }
 
 .label-right {
-  position: absolute;
-  right: 5%;
-  width: 100%;
-  text-align: right;
+	position: absolute;
+	right: 5%;
+	width: 100%;
+	text-align: right;
 }
 
 .label-center {
-  position: absolute;
-  left: 0;
-  width: 100%;
-  text-align: center;
+	position: absolute;
+	left: 0;
+	width: 100%;
+	text-align: center;
 }
 
 .line {
-  height: 6.55%;
-  margin: 0;
-  white-space: pre;
+	height: 6.55%;
+	margin: 0;
+	white-space: pre;
 }
 
 .line-left {
-  position: absolute;
-  left: 4%;
-  width: 100%;
-  text-align: left;
+	position: absolute;
+	left: 4%;
+	width: 100%;
+	text-align: left;
 }
 
 .line-right {
-  position: absolute;
-  right: 4%;
-  width: 100%;
-  text-align: right;
+	position: absolute;
+	right: 4%;
+	width: 100%;
+	text-align: right;
 }
 
 .line-center {
-  position: absolute;
-  left: 0;
-  width: 100%;
-  text-align: center;
+	position: absolute;
+	left: 0;
+	width: 100%;
+	text-align: center;
 }
 
 #in-out {
-  padding-left: 4%;
+	padding-left: 4%;
 }
 
 #arrow-vertical {
-  float: right;
+	float: right;
 }
 
 #arrow-horizontal {
-  position: absolute;
-  right: 1%;
-  width: 100%;
-  text-align: right;
+	position: absolute;
+	right: 1%;
+	width: 100%;
+	text-align: right;
 }
 
 .left {
-  margin-left: 4%;
-  float: left;
+	margin-left: 4%;
+	float: left;
 }
 
 .right {
-  margin-right: 6%;
-  float: right;
+	margin-right: 6%;
+	float: right;
 }
-
 ```
 
-C:\FS2020\Community\flybywire-aircraft-a320-neo\html\_ui\Pages\VCockpit\Instruments\Airliners\FlyByWire\_A320\_Neo\CDU\A320\_Neo\_CDU.css
+C:\FS2020\Community\flybywire-aircraft-a320-neo\html_ui\Pages\VCockpit\Instruments\Airliners\FlyByWire_A320_Neo\CDU\A320_Neo_CDU.css
 
 ```text
 // Panel Configuration File
@@ -432,11 +427,8 @@ painting00=Printer/Printer.html?Index=1,	0, 0, 1024, 1024
 
 ```
 
-C:\FS2020\Community\flybywire-aircraft-a320-neo\SimObjects\AirPlanes\FlyByWire\_A320\_NEO\panel\panel.cfg
-
-
+C:\FS2020\Community\flybywire-aircraft-a320-neo\SimObjects\AirPlanes\FlyByWire_A320_NEO\panel\panel.cfg
 
 ### Modifying the panel.cfg requires simulator restart
 
 ### Modifying the CSS file DO NOT REQUIRE simulator restart
-

@@ -11,7 +11,6 @@ It features the following sections:
 
 > ⚠️ **Flight Simulation Only – Not for use in real aviation applications.**
 
-
 ---
 
 ## Panel Design
@@ -42,28 +41,27 @@ It features the following sections:
 
 #### J2 – 40-pin Header
 
-| Pin | Signal                    |
-|-----|---------------------------|
-| 1   | BLOWER-TOP_LED            |
-| 2   | BLOWER-BOTTOM_LED         |
-| 3   | BLOWER-KORRY_SW           |
-| 4   | CAB-FANS-TOP_LED          |
-| 5   | CAB-FANS-BOTTOM_LED       |
-| 6   | CAB-FANS-KORRY_SW         |
-| 7   | MAN-START-ENG-2-TOP_LED   |
-| 8   | MAN-START-ENG-2-BOTTOM_LED|
-| 9   | MAN-START-ENG-2-KORRY_SW  |
-| 10  | EXTRACT-TOP_LED           |
-| 11  | EXTRACT-BOTTOM_LED        |
-| 12  | EXTRACT-KORRY_SW          |
-| 13  | MAN-START-ENG-1-TOP_LED   |
-| 14  | MAN-START-ENG-1-BOTTOM_LED|
-| 15  | MAN-START-ENG-1-KORRY_SW  |
-| 16  | RAIN-RPLNT-SW             |
-| 17  | WIPER-SW-POS-1            |
-| 18  | WIPER-SW-POS-2            |
-| 19  | WIPER-SW-POS-3            |
-
+| Pin | Signal                     |
+| --- | -------------------------- |
+| 1   | BLOWER-TOP_LED             |
+| 2   | BLOWER-BOTTOM_LED          |
+| 3   | BLOWER-KORRY_SW            |
+| 4   | CAB-FANS-TOP_LED           |
+| 5   | CAB-FANS-BOTTOM_LED        |
+| 6   | CAB-FANS-KORRY_SW          |
+| 7   | MAN-START-ENG-2-TOP_LED    |
+| 8   | MAN-START-ENG-2-BOTTOM_LED |
+| 9   | MAN-START-ENG-2-KORRY_SW   |
+| 10  | EXTRACT-TOP_LED            |
+| 11  | EXTRACT-BOTTOM_LED         |
+| 12  | EXTRACT-KORRY_SW           |
+| 13  | MAN-START-ENG-1-TOP_LED    |
+| 14  | MAN-START-ENG-1-BOTTOM_LED |
+| 15  | MAN-START-ENG-1-KORRY_SW   |
+| 16  | RAIN-RPLNT-SW              |
+| 17  | WIPER-SW-POS-1             |
+| 18  | WIPER-SW-POS-2             |
+| 19  | WIPER-SW-POS-3             |
 
 ### VENTILATION
 
@@ -79,9 +77,9 @@ It features the following sections:
 ### WIPER
 
 - Rotary selector with positions:
-  - OFF
-  - SLOW
-  - FAST
+    - OFF
+    - SLOW
+    - FAST
 
 ### RAIN RPLNT
 
@@ -93,7 +91,7 @@ It features the following sections:
 
 ## 🔗 Attribution
 
-- **Version**: Ventilation, Engine, Rain Repellent Wipers v1.0  
-- **Project**: [OpenA3XX](https://www.github.com/OpenA3XX)  
-- **License**: CC BY-SA 4.0  
+- **Version**: Ventilation, Engine, Rain Repellent Wipers v1.0
+- **Project**: [OpenA3XX](https://www.github.com/OpenA3XX)
+- **License**: CC BY-SA 4.0
 - **Note**: Design for simulation use only.

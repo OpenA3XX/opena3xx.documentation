@@ -1,0 +1,26 @@
+{
+	"name": "salesforce-app",
+	"private": true,
+	"version": "1.0.0",
+	"description": "Salesforce App",
+	"scripts": {
+		"lint": "eslint **/**/*.js",
+		"test": "npm run test:unit",
+		"prettier": "prettier --write \"**/*.{md,json}\"",
+		"prettier:verify": "prettier --check \"**/*.{md,json}\"",
+		"precommit": "lint-staged"
+	},
+	"devDependencies": {
+		"@prettier/plugin-xml": "^3.4.1",
+		"eslint": "8.57.1",
+		"eslint-plugin-import": "^2.25.4",
+		"husky": "^9.1.5",
+		"lint-staged": "^15.1.0",
+		"prettier": "^3.1.0"
+	},
+	"lint-staged": {
+		"**/*.{md,json}": [
+			"prettier --write"
+		]
+	}
+}

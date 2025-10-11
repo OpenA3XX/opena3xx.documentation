@@ -8,8 +8,6 @@ Welcome to the [OpenA3XX](https://github.com/OpenA3XX) project, a truly open sou
 
 ### About the project
 
-
-
 The project was co-founded by [David Bonnici](https://www.linkedin.com/in/david-bonnici/) an Engineering Director, Hardware & Software Engineer based in Malta with some initial help from other [Discord Members - Invitation Here!](https://discord.gg/Sm9VzrRuDP).
 
 It came into existance after the desire to be build a home cockpit for the Airbus A3XX family, but there was no single point of reference on how to tackle that kind of project from the beginning.  
@@ -26,7 +24,7 @@ We beleive this is a high quality project, designed with low-cost in mind.
 Everything within the OpenA3XX project is open source hardware & software.  
 It is for **personal use only**, and is not permitted for commercial use without speaking to the OpenA3XX team directly.  
 **No-one is allowed to sell any part of the project, nor are they allowed to manufacture our designs and products for selling.**  
-There may be certain parts of the project that OpenA3XX holds in stock for users to purchase if they are not able to get them manufactured themself. But no product will be behind a paywall. All parts will always be free to the user.   
+There may be certain parts of the project that OpenA3XX holds in stock for users to purchase if they are not able to get them manufactured themself. But no product will be behind a paywall. All parts will always be free to the user.  
 In summary, it's all completly free for you to use for yourself in personal home cockpits.  
 If you are unsure on whether you are allowed to do something with our designs and products, please contact us to discuss the matter. Thank you!
 
@@ -59,3 +57,10 @@ All of our current work is free to be seen on the [OpenA3XX](https://github.com/
 
 In the mean time, please consider joining our [Community Discord](https://discord.gg/Sm9VzrRuDP) server.
 
+### Note on contributing
+
+If you do add, update or otherwise change the documentation, please run it via prettier first. this keeps all the internal formatting consistant.
+
+1. install NPM
+1. run `npm install` on this folder
+1. run `npm run prettier .` on this folder to update all the files to the correct formatting.
