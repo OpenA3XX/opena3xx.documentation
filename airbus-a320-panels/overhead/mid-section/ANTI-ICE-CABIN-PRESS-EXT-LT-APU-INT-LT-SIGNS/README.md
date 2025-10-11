@@ -39,7 +39,7 @@ The panel is divided into functional sections for realism and usability:
 
 ---
 
-### 🌬 CABIN PRESS
+### CABIN PRESS
 
 | Switch            | Function                                                                       | Legend                      | Type                          |
 | ----------------- | ------------------------------------------------------------------------------ | --------------------------- | ----------------------------- |
