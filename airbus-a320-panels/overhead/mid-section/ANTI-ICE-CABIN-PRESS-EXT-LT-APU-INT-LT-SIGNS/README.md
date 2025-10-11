@@ -31,21 +31,22 @@ The panel is divided into functional sections for realism and usability:
 
 ### ANTI-ICE
 
-- **WING** – Heats leading edges of the wings.
-- **ENG1 / ENG2** – Activates engine nacelle anti-ice for respective engine.
-- **PROBE / WINDOW HEAT** – Activates heating for pitot tubes, static ports, and windshields.
-    - Includes `AUTO` label vertically silkscreened.
-
-All positions use **Korry-style switches**, with LED indicators (`FAULT`, `ON`).
+| Switch                  | Function                                                                        | Legend                    | Type            |
+| ----------------------- | ------------------------------------------------------------------------------- | ------------------------- | --------------- |
+| **WING**                | Heats leading edges of the wings.                                               | `FAULT` Amber / `ON` Blue | Momentary Korry |
+| **ENG1 / ENG2**         | Activates engine nacelle anti-ice for respective engine.                        | `FAULT` Amber / `ON` Blue | Momentary Korry |
+| **PROBE / WINDOW HEAT** | Activates heating for pitot tubes, static ports, and windshields. Off is `AUTO` | Blank / `ON` Blue         | Momentary Korry |
 
 ---
 
 ### 🌬 CABIN PRESS
 
-- **MAN V/S CTL** – Manual vertical speed control (spring-loaded switch).
-- **MODE SEL** – Switches between AUTO and MAN pressurization.
-- **LDG ELEV AUTO** – Rotary switch to set landing elevation manually when not in AUTO.
-- **DITCHING** – Closes outflow valves, air inlets, and exhaust valves to prepare for ditching.
+| Switch            | Function                                                                       | Legend                      | Type                          |
+| ----------------- | ------------------------------------------------------------------------------ | --------------------------- | ----------------------------- |
+| **MAN V/S CTL**   | Manual vertical speed control                                                  | UP / \_\_ / DN              | spring-loaded switch, centred |
+| **MODE SEL**      | Switches between AUTO and MAN pressurization.                                  | `FAULT` Amber / `MAN` White | Momentary Korry               |
+| **LDG ELEV AUTO** | Rotary switch to set landing elevation manually when not in AUTO.              | AUTO / -2->14               | Dial                          |
+| **DITCHING**      | Closes outflow valves, air inlets, and exhaust valves to prepare for ditching. | `* *` (Domino) / `ON` White | Momentary Korry (Fenced)      |
 
 ---
 
@@ -53,15 +54,15 @@ All positions use **Korry-style switches**, with LED indicators (`FAULT`, `ON`).
 
 Includes 8 pushbuttons for lighting systems:
 
-| Switch           | Function                                              |
-| ---------------- | ----------------------------------------------------- |
-| **STROBE**       | Wingtip anti-collision strobe lights                  |
-| **BEACON**       | Red rotating lights (top and bottom)                  |
-| **WING**         | Floodlights for wing inspection                       |
-| **NAV & LOGO**   | Position lights and vertical stabilizer logo lighting |
-| **RWY TURN OFF** | Lights pointing toward runway turns                   |
-| **LAND L/R**     | Left and right landing lights                         |
-| **NOSE**         | Nose gear taxi/takeoff light                          |
+| Switch           | Function                                              | Legend         | Type       |
+| ---------------- | ----------------------------------------------------- | -------------- | ---------- |
+| **STROBE**       | Wingtip anti-collision strobe lights                  | ON/AUTO/OFF    | 3 Position |
+| **BEACON**       | Red rotating lights (top and bottom)                  | ON/OFF         | 2 Position |
+| **WING**         | Floodlights for wing inspection                       | ON/OFF         | 2 Position |
+| **NAV & LOGO**   | Position lights and vertical stabilizer logo lighting | ON/OFF         | 2 Position |
+| **RWY TURN OFF** | Lights pointing toward runway turns                   | ON/OFF         | 2 Position |
+| **LAND L/R**     | Left and right landing lights                         | ON/OFF/RETRACT | 3 Position |
+| **NOSE**         | Nose gear taxi/takeoff light                          | T.O./TAXI/OFF  | 3 Position |
 
 Pushbuttons are circular with silkscreen labels indicating states (e.g., `ON`, `OFF`, `RETRACT`).
 
@@ -69,31 +70,34 @@ Pushbuttons are circular with silkscreen labels indicating states (e.g., `ON`, `
 
 ### APU (Auxiliary Power Unit)
 
-- **MASTER SW** – Controls APU master switch.
-- **START** – Initiates APU start sequence.
+| Switch        | function                      | Legend/colours            | Type            |
+| ------------- | ----------------------------- | ------------------------- | --------------- |
+| **MASTER SW** | Controls APU master switch.   | `FAULT` Amber / `ON` Blue | Momentary Korry |
+| **START**     | Initiates APU start sequence. | `AVAIL` green / `ON` Blue | Momentary Korry |
 
-Each uses a **Korry-style switch** with `FAULT`, `AVAIL`, and `ON` indications.
+Each uses a **Korry-style switch** with `FAULT`, indications.
 
 ---
 
 ### INT LT (Internal Lighting)
 
-| Control                    | Function                                         |
-| -------------------------- | ------------------------------------------------ |
-| **OVHD INTEG LT**          | Overhead panel integrated lighting               |
-| **ICE IND & STBY COMPASS** | Backlights for standby compass and ice indicator |
-| **DOME**                   | Dome light with BRT, DIM, OFF states             |
-| **ANN LT**                 | Annunciator test light (TEST, BRT, DIM)          |
+| Switch                     | Function                                         | Legend           | Type       |
+| -------------------------- | ------------------------------------------------ | ---------------- | ---------- |
+| **OVHD INTEG LT**          | Overhead panel integrated lighting               | OFF -> BRT       | Dial       |
+| **ICE IND & STBY COMPASS** | Backlights for standby compass and ice indicator | \_\_ / OFF       | 2 Position |
+| **DOME**                   | Dome light with BRT, DIM, OFF states             | BRT / DIM / OFF  | 3 Position |
+| **ANN LT**                 | Annunciator test light (TEST, BRT, DIM)          | TEST / BRT / DIM | 3 Position |
 
 ---
 
 ### SIGNS
 
-- **SEAT BELTS** – Passenger fasten seatbelt sign (ON/OFF)
-- **NO SMOKING** – No smoking sign (ON/OFF)
-- **SIGNS MODE** – Rotary selector for `AUTO` mode logic
-- **EMER EXIT LT** – Emergency exit lighting switch (OFF/ARM/ON)
-- **CAPT** – Controls light test mode or brightness
+| Switch           | Function                       | Legend                       | Type            |
+| ---------------- | ------------------------------ | ---------------------------- | --------------- |
+| **SEAT BELTS**   | Passenger fasten seatbelt sign | ON / OFF                     | 2 Position      |
+| **NO SMOKING**   | No smoking sign                | ON / OFF                     | 2 Position      |
+| **SIGNS MODE**   | Selector for `AUTO` mode logic | `* *` (Domino) / `OFF` Amber | Momentary Korry |
+| **EMER EXIT LT** | Emergency exit lighting switch | OFF / ARM / ON               | 3 Position      |
 
 ---
 
