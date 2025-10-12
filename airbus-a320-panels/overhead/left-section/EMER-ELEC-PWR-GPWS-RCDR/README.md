@@ -22,27 +22,40 @@ The panel is structured into 3 main zones:
 
 ### Top Row – EMER ELEC PWR:
 
-- **EMER GEN TEST**: Test pushbutton with Korry-style label.
-- **GEN 1 LINE**: Switch labeled `SMOKE / OFF`.
-- **RAT & EMER GEN**: Labeled `FAULT` with indicator marks.
-- **MAN ON / AUTO**: Korry Switch with AUTO and MAN positions.
+| Switch             | Function                                      | Legend                       | Type                |
+| ------------------ | --------------------------------------------- | ---------------------------- | ------------------- |
+| **EMER GEN TEST**  | Test pushbutton with Korry-style label        | -                            | Push-to-Make button |
+| **GEN 1 LINE**     | Emergency smoke response button               | `SMOKE` Amber / `OFF` White  | Momentary Korry     |
+| **RAT & EMER GEN** | Indicates status of RAT & Emergency Generator | `FAULT` Red / `* *` (Domino) | Display only        |
+| **MAN ON / AUTO**  | Korry Switch with AUTO and MAN positions.     | -                            | Push-to-Make Button |
 
 ### Middle Row – GPWS:
 
-- **TERR** and **SYS**: Korry switches with `FAULT / OFF` labels.
-- **G/S MODE**, **FLAP MODE**, **LDG FLAP3**: Korry-style switches with `OFF` and `ON` configurations.
+| Switch        | Function                                                                                        | Legend                      | Type            |
+| ------------- | ----------------------------------------------------------------------------------------------- | --------------------------- | --------------- |
+| **TERR**      | Disables terrain warning                                                                        | `FAULT` Amber / `OFF` White | Momentary Korry |
+| **SYS**       | Disables GPWS                                                                                   | `FAULT` Amber / `OFF` White | Momentary Korry |
+| **G/S MODE**  | Disabled GPWS Glideslope warnings                                                               | `* *` unlit / `OFF` White   | Momentary Korry |
+| **FLAP MODE** | Flap mode (“TOO LOW FLAPS” mode 4) is inhibited                                                 | `* *` unlit / `OFF` White   | Momentary Korry |
+| **LDG FLAP3** | LDG MEMO displays FLAPS…3 instead of FLAPS…FULL and TOO LOW FLAPS warning disabled with flaps 3 | `* *` unlit / `ON` White    | Momentary Korry |
 
 ### Bottom Row – RCDR:
 
-- **GND CTL**: Switch with `ON / AUTO` legend.
-- **CVR ERASE** and **CVR TEST**: Pushbutton with circular layout indicators.
+| Switch        | Function                   | Legend                   | Type                                        |
+| ------------- | -------------------------- | ------------------------ | ------------------------------------------- |
+| **GND CTL**   | Enabled CVR when on parked | `* *` unlit / `ON` White | Momentary Korry                             |
+| **CVR ERASE** | Erases current recording   | -                        | Pushbutton with circular layout indicators. |
+| **CVR TEST**  | runs the CVR Test          | -                        | Pushbutton with circular layout indicators. |
 
 ---
 
 ## PCB Details
 
+_Design_
 ![PCB Design](./img/pcb-design.png)
+_Front_
 ![PCB 3D Front](./img/pcb-3d-front.png)
+_Back_
 ![PCB 3D Back](./img/pcb-3d-back.png)
 
 ### Connectors & Interfaces
