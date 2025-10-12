@@ -46,7 +46,7 @@ The panel is divided into functional sections for realism and usability:
 | **MAN V/S CTL**   | Manual vertical speed control                                                  | UP / \_\_ / DN              | spring-loaded switch, centred |
 | **MODE SEL**      | Switches between AUTO and MAN pressurization.                                  | `FAULT` Amber / `MAN` White | Momentary Korry               |
 | **LDG ELEV AUTO** | Rotary switch to set landing elevation manually when not in AUTO.              | AUTO / -2->14               | Dial                          |
-| **DITCHING**      | Closes outflow valves, air inlets, and exhaust valves to prepare for ditching. | `* *` (Domino) / `ON` White | Momentary Korry (Fenced)      |
+| **DITCHING**      | Closes outflow valves, air inlets, and exhaust valves to prepare for ditching. | `* *` Unlit / `ON` White    | Momentary Korry (Fenced)      |
 
 ---
 

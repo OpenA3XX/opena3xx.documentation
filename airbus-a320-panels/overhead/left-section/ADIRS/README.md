@@ -20,33 +20,37 @@ The hardware design includes a **PCB assembly**, **front acrylic panel**, and pr
 
 The ADIRS Panel is structured in a 3x2 grid format:
 
-### Top Row – IR Controls:
+### Top Row
 
-- **IR1**, **IR3**, **IR2** (Left to Right)
-    - Each IR module has:
-        - A rectangular area for a Korry-style dual switch labeled `FAULT` and `OFF`.
-        - A rotary selector with 3 positions: `OFF`, `NAV`, and `ATT`.
-        - Clearly labeled silkscreen for selector positions and function.
+- **ON BAT** indicator located centrally above the IR3 module.
+
+### Middle Row – IR Controls:
+
+| Switch                    | Function                     | Legend                      | Type            |
+| ------------------------- | ---------------------------- | --------------------------- | --------------- |
+| **IR1**, **IR3**, **IR2** | used to turn off the IR      | `FAULT` Amber / `OFF` White | Momentary Korry |
+| **IR1**, **IR3**, **IR2** | Used to control Status of IR | OFF/NAV/ATT                 | Dial            |
 
 ### Middle:
 
-- **ON BAT** indicator located centrally above the IR3 module.
 - Legend "ADIRS" above the indicator.
 - Marked component silkscreen for switch and LED placement.
 
 ### Bottom Row – ADR Controls:
 
-- **ADR1**, **ADR3**, **ADR2** (Left to Right)
-    - Each ADR module has:
-        - Dual Korry-style switch positions (`FAULT`, `OFF`).
-        - Component footprints for headers and illumination around switch area.
+| Switch                       | Function                  | Legend                      | Type            |
+| ---------------------------- | ------------------------- | --------------------------- | --------------- |
+| **ADR1**, **ADR3**, **ADR2** | used to control the ADIRs | `FAULT` Amber / `OFF` White | Momentary Korry |
 
 ---
 
 ## PCB Details
 
+_Design_
 ![PCB Design](./img/pcb-design.png)
+_Front_
 ![PCB 3D Front](./img/pcb-3d-front.png)
+_Back_
 ![PCB 3D Back](./img/pcb-3d-back.png)
 
 ### Connectors & Interfaces

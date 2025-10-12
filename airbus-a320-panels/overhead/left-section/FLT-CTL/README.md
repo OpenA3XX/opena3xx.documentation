@@ -24,11 +24,11 @@ This panel uses a horizontal alignment of the three control modules:
 
 ![Acrylic Panels](./img/acrylic-panels.png)
 
-- From left to right: **ELAC1**, **SEC1**, **FAC1**
-- Each module contains:
-    - A square space to mount a dual Korry-style switch.
-    - Surrounding white silkscreen rectangles and labels.
-    - Top and bottom illumination points for the button segments.
+| Switch    | Function                         | Legend                      | Type            |
+| --------- | -------------------------------- | --------------------------- | --------------- |
+| **ELAC1** | Elevator Aileron Computer switch | `FAULT` Amber / `OFF` White | Momentary Korry |
+| **SEC1**  | Spoiler Elevator Computer switch | `FAULT` Amber / `OFF` White | Momentary Korry |
+| **FAC1**  | Flight Augmentation Computer     | `FAULT` Amber / `OFF` White | Momentary Korry |
 
 The front panel acrylic features laser-engraved legends for each function and a centered “FLT CTL” label above the modules.
 

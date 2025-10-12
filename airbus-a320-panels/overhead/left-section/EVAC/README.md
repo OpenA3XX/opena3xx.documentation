@@ -22,10 +22,11 @@ This panel uses a horizontal layout featuring one Korry switch and two rotary se
 
 ![Acrylic Panels](./img/acrylic-panels.png)
 
-- From left to right:
-    - **COMMAND**: Dual Korry-style switch (`EVAC` / `ON`)
-    - **HORN SHUT OFF**: Push To Make Switch
-    - **CAPT & PURS / CAPT**: Up/Down Selector Switch
+| Switch                 | Function                                                                        | Legend                  | Type                |
+| ---------------------- | ------------------------------------------------------------------------------- | ----------------------- | ------------------- |
+| **COMMAND**            | when selected, the `EVAC` flashes and the `ON` Illuminates                      | `EVAC` Red / `ON` White | Momentary Korry     |
+| **HORN SHUT OFF**      | disables cockpit horn                                                           | -                       | Push To Make Switch |
+| **CAPT & PURS / CAPT** | Allows pilt to decide if alter can be activated from Captain only, or Cabin too | 2 Position Switch       |
 
 The front panel acrylic features a centered **EVAC** title and clearly engraved labels above each interaction point.
 
