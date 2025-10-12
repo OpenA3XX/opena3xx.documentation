@@ -22,10 +22,12 @@ The OCRW panel layout is logically split into functional zones:
 
 ### Top Row – Oxygen Controls
 
-- **HIGH ALT LANDING**
-- **MASK MAN ON**
-- **PASSENGER SYS ON**
-- **CREW SUPPLY OFF**
+| Switch               | Function                                                                                                                             | Legend                       | Type                  |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | --------------------- |
+| **HIGH ALT LANDING** | enables High Alitude Landing for air-pressure system                                                                                 | \_ / `ON` Blue               | Gated Momentary Korry |
+| **MASK MAN ON**      | The mask doors open automatically, when the cabin altitude exceeds 14 000 ft, or 16 000 ft if the HI ALT LANDING pb-sw is set to ON. | -                            | Push-to-make button   |
+| **PASSENGER SYS ON** | Lights when pa masks are open                                                                                                        | `SYS ON` White / `* *` Unlit | Momentary Korry       |
+| **CREW SUPPLY OFF**  | toggles crew mask pressure                                                                                                           | `* *` Unlit / `OFF` White    | Momentary Korry       |
 
 Each control features:
 
@@ -37,27 +39,32 @@ Each control features:
 
 Labeled under **CALLS**, these are pushbuttons for intercom signaling:
 
-- **MECH**
-- **ALL**
-- **FWD**
-- **AFT**
-- **EMER CALL ON** (uses Korry-style illuminated switch)
+| Switch           | Function                                            | Legend                    | Type                |
+| ---------------- | --------------------------------------------------- | ------------------------- | ------------------- |
+| **MECH**         | Rings the Mechanic/Ground crew                      | -                         | Push-to-make button |
+| **ALL**          | Calls both Cabin positions                          | -                         | Push-to-make button |
+| **FWD**          | Calls Forward Cabin                                 | -                         | Push-to-make button |
+| **AFT**          | Calls Aft Cabin                                     | -                         | Push-to-make button |
+| **EMER CALL ON** | Calls all positions with special emergency settings | `CALL` Amber / `ON` White | Momentary Korry     |
 
 Each position is marked for a circular switch or illuminated pushbutton.
 
 ### Bottom Row – Rain and Wiper Systems
 
-- **RAIN RPLNT**: Pushbutton location
-- **WIPER Rotary Switch**:
-    - 3 positions: `OFF`, `SLOW`, `FAST`
-    - Curved arc label with selector indentation
+| Switch                  | Function                                                                 | Legend        | Type                |
+| ----------------------- | ------------------------------------------------------------------------ | ------------- | ------------------- |
+| **RAIN RPLNT**          | Applies Rain Repelant. Not available on the ground with engines stopped. | -             | Push-to-make button |
+| **WIPER Rotary Switch** | changes speed of wipers                                                  | OFF/SLOW/FAST | 3 position Dial     |
 
 ---
 
 ## PCB Details
 
+_Design_
 ![PCB Design](./img/pcb-design.png)  
+_Front_
 ![PCB 3D Front](./img/pcb-3d-front.png)  
+_Back_
 ![PCB 3D Back](./img/pcb-3d-back.png)
 
 ### Connectors & Interfaces
