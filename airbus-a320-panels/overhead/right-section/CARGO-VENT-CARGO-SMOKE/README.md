@@ -50,8 +50,12 @@ Includes:
 ### Connectors & Interfaces
 
 #### J2 – 40-pin Header
+<<<<<<< Updated upstream
 
 - Main I/O interface for all switches and LEDs.
+=======
+- Main I/O interface for all IOs
+>>>>>>> Stashed changes
 
 ##### CONNECTION J2
 
